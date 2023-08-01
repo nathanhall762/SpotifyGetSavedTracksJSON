@@ -4,6 +4,7 @@ const { saveJsonToFile, readJsonFromFile } = require("./utils/fileOperations");
 const createCSV = require("./utils/csvConverter");
 const fs = require("fs");
 const csvCombiner = require("./utils/csvCombiner");
+const { type } = require("os");
 
 // This file is copied from: https://github.com/thelinmichael/spotify-web-api-node/blob/master/examples/tutorial/00-get-access-token.js
 
@@ -35,7 +36,6 @@ const app = express();
 
 // TODO: Add a redirect to home page (app.get('/'))
 
-
 // Login endpoint
 app.get("/login", (req, res) => {
   res.redirect(spotifyApi.createAuthorizeURL(scopes));
@@ -55,6 +55,7 @@ app.get("/callback", async (req, res) => {
 
   const inputFiles = [];
 
+  // Authorization
   spotifyApi.authorizationCodeGrant(code).then(async (data) => {
     const access_token = data.body["access_token"];
     const refresh_token = data.body["refresh_token"];
@@ -80,100 +81,103 @@ app.get("/callback", async (req, res) => {
       spotifyApi.setAccessToken(access_token);
     }, (expires_in / 2) * 1000);
 
-    // Get tracks in the signed-in user's Your Music library
-    for (let i = 0; i < 1300; i += 50) {
-      try {
-        const data = await spotifyApi.getMySavedTracks({
-          limit: 50,
-          offset: i,
-        });
-        console.log(data.body.items);
+    // Read the CSV data from the file 'filteredCSV.csv'
+    // fs.readFile("filteredCSV.csv", "utf8", (err, csvData) => {
+    //   if (err) {
+    //     console.error("Error reading the file:", err);
+    //     return;
+    //   }
 
-        // Save data.body.items to a JSON file
-        const savedTracksData = data.body.items;
-        const jsonData = JSON.stringify(savedTracksData, null, 2); // Format with 2 spaces for better readability
-        const filename = "saved_tracks.json";
+    //   // Split the CSV data into an array of lines
+    //   const lines = csvData.split("\n");
 
-        // Write the data to a JSON file
-        await saveJsonToFile(filename, jsonData);
+    //   // Get the header line (first line) and split it into an array of column names
+    //   const headers = lines[0].split(",");
 
-        // Call the function to get audio features and merge with saved tracks data
-        await getAudioFeaturesAndMerge(filename);
+    //   // Find the index of the 'track.id' column
+    //   const trackIdIndex = headers.indexOf("track.id");
 
-        // Read the merged data from the JSON file
-        const mergedData = await readJsonFromFile(filename);
-        console.log("Merged data:", mergedData);
+    //   // Initialize an empty array to store the track IDs
+    //   const trackIds = [];
 
-        // Create the CSV
-        await createCSV(`output${i}.csv`, mergedData);
+    //   // Iterate through each line (starting from the second line) to extract the track IDs
+    //   for (let i = 1; i < lines.length; i++) {
+    //     const currentLine = lines[i].split(",");
+    //     const trackId = currentLine[trackIdIndex];
+    //     trackIds.push(trackId);
+    //   }
 
-        // Store the generated CSV file names to be used for combining later
-        inputFiles.push(`output${i}.csv`);
-      } catch (err) {
-        console.log("Something went wrong!", err);
-      }
-    }
+    //   // Convert trackIds to a string format spotify:track:trackId1,spotify:track:trackId2,...
+    //   trackIdsString = trackIds
+    //     .map((trackId) => `spotify:track:${trackId}`)
+    //     .join(",");
 
-    // Combine the CSV files
-    const outputFile = "combined_output.csv";
+    //   // Now, 'trackIds' contains all the track IDs from the CSV in an array
+    //   console.log(trackIdsString);
 
-    try {
-      const combinedData = await csvCombiner.combineCSVFiles(inputFiles);
-      await csvCombiner.writeCombinedCSV(outputFile, combinedData);
-    } catch (error) {
-      console.error("Error:", error);
-    }
+    //   // Use trackIdsString to add Items to Playlist with playlist_id = 7kPsYLA4b3SjCZXhXpJJ7E
+    //   spotifyApi
+    //     .addTracksToPlaylist("7kPsYLA4b3SjCZXhXpJJ7E", trackIdsString)
+    //     .then(
+    //       function (data) {
+    //         console.log("Added tracks to playlist!");
+    //       },
+    //       function (err) {
+    //         console.log("Something went wrong!", err);
+    //       }
+    //     );
+    // });
   });
 
   // Function to get audio features and merge with saved tracks data
-  async function getAudioFeaturesAndMerge(filename) {
-    try {
-      // Read the saved tracks data from the JSON file
-      const data = await fs.promises.readFile(filename, "utf8");
-      const savedTracksData = JSON.parse(data);
+  // async function getAudioFeaturesAndMerge(filename) {
+  //   try {
+  //     // Read the saved tracks data from the JSON file
+  //     const data = await fs.promises.readFile(filename, "utf8");
+  //     const savedTracksData = JSON.parse(data);
 
-      // Extract track IDs from the saved tracks data
-      const trackIds = savedTracksData.map((track) => track.track.id);
+  //     // Extract track IDs from the saved tracks data
+  //     const trackIds = savedTracksData.map((track) => track.track.id);
 
-      // Get audio features for the track IDs
-      const audioFeatures = await spotifyApi.getAudioFeaturesForTracks(
-        trackIds
-      );
+  //     // Get audio features for the track IDs
+  //     const audioFeatures = await spotifyApi.getAudioFeaturesForTracks(
+  //       trackIds
+  //     );
 
-      // Merge the audio features with the saved tracks data
-      const mergedData = savedTracksData.map((track) => {
-        const audioFeature = audioFeatures.body.audio_features.find(
-          (feature) => feature.id === track.track.id
-        );
-        return {
-          ...track,
-          acousticness: audioFeature.acousticness,
-          danceability: audioFeature.danceability,
-          energy: audioFeature.energy,
-          instrumentalness: audioFeature.instrumentalness,
-          key: audioFeature.key,
-          liveness: audioFeature.liveness,
-          loudness: audioFeature.loudness,
-          mode: audioFeature.mode,
-          speechiness: audioFeature.speechiness,
-          tempo: audioFeature.tempo,
-          time_signature: audioFeature.time_signature,
-          valence: audioFeature.valence,
-        };
-      });
+  //     // Merge the audio features with the saved tracks data
+  //     const mergedData = savedTracksData.map((track) => {
+  //       const audioFeature = audioFeatures.body.audio_features.find(
+  //         (feature) => feature.id === track.track.id
+  //       );
+  //       return {
+  //         ...track,
+  //         acousticness: audioFeature.acousticness,
+  //         danceability: audioFeature.danceability,
+  //         energy: audioFeature.energy,
+  //         instrumentalness: audioFeature.instrumentalness,
+  //         key: audioFeature.key,
+  //         liveness: audioFeature.liveness,
+  //         loudness: audioFeature.loudness,
+  //         mode: audioFeature.mode,
+  //         speechiness: audioFeature.speechiness,
+  //         tempo: audioFeature.tempo,
+  //         time_signature: audioFeature.time_signature,
+  //         valence: audioFeature.valence,
+  //       };
+  //     });
 
-      // Write the merged data back to the JSON file
-      const mergedJsonData = JSON.stringify(mergedData, null, 2); // Format with 2 spaces for better readability
-      await fs.promises.writeFile(filename, mergedJsonData);
+  //     // Write the merged data back to the JSON file
+  //     const mergedJsonData = JSON.stringify(mergedData, null, 2); // Format with 2 spaces for better readability
+  //     await fs.promises.writeFile(filename, mergedJsonData);
 
-      console.log("Audio features successfully merged with saved tracks data.");
-    } catch (error) {
-      console.error("Error:", error);
-    }
-  }
+  //     console.log("Audio features successfully merged with saved tracks data.");
+  //   } catch (error) {
+  //     console.error("Error:", error);
+  //   }
+  // }
 });
 
-// 
+//
 
 app.listen(8888, () =>
   console.log(

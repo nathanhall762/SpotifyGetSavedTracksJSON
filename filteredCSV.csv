@@ -1,286 +1,285 @@
-track.external_urls.spotify,track.name,track.id,key,mode,tempo,track.duration_ms,track.popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,valence,track.uri,time_signature
-https://open.spotify.com/track/2PtssgaplWt6pf8x5AzyNi,Open End Resource - OCULA Edit,2PtssgaplWt6pf8x5AzyNi,2,TRUE,125.017,236160,35,0.149,0.553,0.733,0.0203,0.0906,-8.924,0.0275,0.427,spotify:track:2PtssgaplWt6pf8x5AzyNi,3
-https://open.spotify.com/track/3nvIKK5SHFWmKGoaGVxxYu,Goodbye Again,3nvIKK5SHFWmKGoaGVxxYu,7,TRUE,127.12,220533,0,0.683,0.456,0.374,0.00327,0.311,-9.942,0.028,0.585,spotify:track:3nvIKK5SHFWmKGoaGVxxYu,4
-https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT,Pumped Up Kicks,7w87IxuO7BDcJ3YUqCyMTT,5,FALSE,127.975,239600,87,0.145,0.733,0.71,0.115,0.0956,-5.849,0.0292,0.965,spotify:track:7w87IxuO7BDcJ3YUqCyMTT,4
-https://open.spotify.com/track/3YXTc9txD7OwGdkVkaoj5F,All I Need,3YXTc9txD7OwGdkVkaoj5F,11,FALSE,130.007,203040,33,0.0555,0.584,0.739,0.658,0.083,-6.784,0.0296,0.371,spotify:track:3YXTc9txD7OwGdkVkaoj5F,4
-https://open.spotify.com/track/0jDO17IUPbXSTGNCuR0Jfd,This Is What It Feels Like,0jDO17IUPbXSTGNCuR0Jfd,8,TRUE,129.885,204360,33,0.0391,0.551,0.833,0.00000277,0.0632,-5.217,0.03,0.145,spotify:track:0jDO17IUPbXSTGNCuR0Jfd,5
-https://open.spotify.com/track/6CbhlWMEz2c7XVH8qosDkS,"Poems, Prayers and Promises - ""Greatest Hits"" Version",6CbhlWMEz2c7XVH8qosDkS,2,TRUE,129.284,277706,0,0.739,0.486,0.249,0.000092,0.151,-12.815,0.03,0.523,spotify:track:6CbhlWMEz2c7XVH8qosDkS,4
-https://open.spotify.com/track/4l2cybnuXksxxKzCCSDPfV,Kalyna,4l2cybnuXksxxKzCCSDPfV,2,TRUE,125.002,186346,53,0.00237,0.609,0.776,0.000123,0.32,-4.863,0.0303,0.194,spotify:track:4l2cybnuXksxxKzCCSDPfV,4
-https://open.spotify.com/track/5oUV6yWdDM0R9Q2CizRhIt,New Slang,5oUV6yWdDM0R9Q2CizRhIt,0,TRUE,130.015,231173,0,0.605,0.669,0.389,0.16,0.0905,-11.547,0.0306,0.649,spotify:track:5oUV6yWdDM0R9Q2CizRhIt,4
-https://open.spotify.com/track/5F55SiWwEEytk6vsQXHxQW,In a Week (feat. Karen Cowley),5F55SiWwEEytk6vsQXHxQW,0,TRUE,131.396,318493,46,0.791,0.464,0.269,0.00000768,0.139,-12.14,0.0311,0.184,spotify:track:5F55SiWwEEytk6vsQXHxQW,3
-https://open.spotify.com/track/22jhuLu3cINdlhIfmV7E0T,Floral,22jhuLu3cINdlhIfmV7E0T,2,FALSE,131.003,296793,31,0.00183,0.631,0.79,0.804,0.0903,-8.367,0.0312,0.269,spotify:track:22jhuLu3cINdlhIfmV7E0T,4
-https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG,The Sun,2hhVlIZmGEGfNeVIYnMUAG,5,FALSE,126.031,208946,57,0.758,0.779,0.605,0.665,0.0918,-7.294,0.0315,0.735,spotify:track:2hhVlIZmGEGfNeVIYnMUAG,4
-https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB,Circle Back Around,222xHxHw2MXwNX2qRFO6cB,1,TRUE,130.009,195408,45,0.000737,0.679,0.668,0.507,0.0591,-7.913,0.0315,0.362,spotify:track:222xHxHw2MXwNX2qRFO6cB,4
-https://open.spotify.com/track/0ZPfDxZn5O0L84wvPSN2iG,How Long Will I Love You - Bonus Track,0ZPfDxZn5O0L84wvPSN2iG,0,TRUE,126.078,154435,54,0.295,0.512,0.304,0.000622,0.118,-9.19,0.0318,0.172,spotify:track:0ZPfDxZn5O0L84wvPSN2iG,5
-https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2,Forever And A Day,5o1mS67lEoLCeFobGIaNb2,7,TRUE,125.06,166230,69,0.104,0.658,0.546,0.000211,0.158,-9.31,0.0318,0.289,spotify:track:5o1mS67lEoLCeFobGIaNb2,4
-https://open.spotify.com/track/7oPqRSubaWcDb5F68aw3P6,The Veldt - 8 Minute Edit,7oPqRSubaWcDb5F68aw3P6,9,TRUE,128.025,520145,45,0.16,0.742,0.631,0.427,0.0685,-8.945,0.0321,0.333,spotify:track:7oPqRSubaWcDb5F68aw3P6,4
-https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep,Meli (II),6nGhGBz7uaE1RngnIFRKep,3,FALSE,126.991,417431,54,0.0376,0.489,0.92,0.665,0.25,-4.746,0.0323,0.215,spotify:track:6nGhGBz7uaE1RngnIFRKep,4
-https://open.spotify.com/track/1sPXaNS4HwQl4BXlXMT4Hc,Open End Resource - Leaving Laurel Remix,1sPXaNS4HwQl4BXlXMT4Hc,2,TRUE,125.02,219240,37,0.227,0.612,0.66,0.0906,0.214,-8.24,0.0328,0.0673,spotify:track:1sPXaNS4HwQl4BXlXMT4Hc,4
-https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI,Old Pine,3CAX47TnPqTujLIQTw8nwI,5,TRUE,129.57,328506,71,0.45,0.401,0.364,0.0503,0.162,-10.836,0.033,0.224,spotify:track:3CAX47TnPqTujLIQTw8nwI,4
-https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm,Dancing In The Shadows,2edB8M0PPZCoYKm8ohDaNm,9,TRUE,130.026,277432,43,0.00161,0.576,0.848,0.00144,0.11,-5.935,0.0333,0.532,spotify:track:2edB8M0PPZCoYKm8ohDaNm,4
-https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh,Flowers in Your Hair,4BDpHt1JrVQzaU7E6RBbXh,7,TRUE,127.463,109735,0,0.749,0.67,0.609,0.0000674,0.227,-10.088,0.0333,0.573,spotify:track:4BDpHt1JrVQzaU7E6RBbXh,4
-https://open.spotify.com/track/2G688ift9Wa5ZcgZEPKgNl,BhÄvachakra,2G688ift9Wa5ZcgZEPKgNl,3,FALSE,129.015,211810,43,0.00261,0.667,0.681,0.0417,0.116,-6.778,0.0334,0.377,spotify:track:2G688ift9Wa5ZcgZEPKgNl,4
-https://open.spotify.com/track/1nz0SvhvjKHHX8NoSUeG3P,BhÄvachakra,1nz0SvhvjKHHX8NoSUeG3P,3,FALSE,129.032,211810,0,0.00255,0.668,0.68,0.0438,0.123,-6.775,0.0335,0.385,spotify:track:1nz0SvhvjKHHX8NoSUeG3P,4
-https://open.spotify.com/track/3jFnw3ndyhIOeWc3VzrMS4,I'm Not Alone - 2019 Edit,3jFnw3ndyhIOeWc3VzrMS4,11,TRUE,127.994,201313,46,0.00349,0.6,0.982,0.48,0.124,-3.921,0.0337,0.212,spotify:track:3jFnw3ndyhIOeWc3VzrMS4,4
-https://open.spotify.com/track/5a8I5duAd2jiGrmRHUZ185,Role Models,5a8I5duAd2jiGrmRHUZ185,7,TRUE,125.992,259694,44,0.0282,0.705,0.531,0.0132,0.221,-8.391,0.0337,0.143,spotify:track:5a8I5duAd2jiGrmRHUZ185,4
-https://open.spotify.com/track/4Bd1yNEOD5aX6NVU8eLlsa,Another Level,4Bd1yNEOD5aX6NVU8eLlsa,6,FALSE,130.001,302825,0,0.00131,0.722,0.822,0.871,0.0797,-4.606,0.0339,0.0385,spotify:track:4Bd1yNEOD5aX6NVU8eLlsa,4
-https://open.spotify.com/track/4RdRa3qq0GBSKjomxrkh5K,Guns for Hands,4RdRa3qq0GBSKjomxrkh5K,1,TRUE,129.963,273335,66,0.00694,0.684,0.858,0.000167,0.0828,-4.266,0.0342,0.518,spotify:track:4RdRa3qq0GBSKjomxrkh5K,4
-https://open.spotify.com/track/5QjJgPU8AJeickx34f7on6,Levels - Radio Edit,5QjJgPU8AJeickx34f7on6,1,FALSE,126.026,199903,14,0.0534,0.605,0.873,0.837,0.314,-5.938,0.0344,0.476,spotify:track:5QjJgPU8AJeickx34f7on6,4
-https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe,Microdosing,6JtT4a0Z406dz7A2f2vGBe,6,FALSE,130.972,238167,43,0.0485,0.715,0.764,0.165,0.175,-8.232,0.0346,0.634,spotify:track:6JtT4a0Z406dz7A2f2vGBe,4
-https://open.spotify.com/track/1vQ92830bxiBcIhpUj4qrn,The Veldt - Radio Edit,1vQ92830bxiBcIhpUj4qrn,9,TRUE,128.041,170059,58,0.0573,0.736,0.759,0.207,0.0778,-7.066,0.0347,0.485,spotify:track:1vQ92830bxiBcIhpUj4qrn,4
-https://open.spotify.com/track/47Y0rL0NmIstJxFgVWUqVA,Valmer,47Y0rL0NmIstJxFgVWUqVA,9,FALSE,131.973,265636,18,0.00252,0.65,0.724,0.83,0.127,-9.019,0.0348,0.314,spotify:track:47Y0rL0NmIstJxFgVWUqVA,4
-https://open.spotify.com/track/0UY6ggZPalSXs3ue8tVcts,Hummingbird,0UY6ggZPalSXs3ue8tVcts,8,FALSE,129.029,177786,47,0.00379,0.677,0.832,0.9,0.176,-7.606,0.035,0.678,spotify:track:0UY6ggZPalSXs3ue8tVcts,4
-https://open.spotify.com/track/5XY2CyLE68jlt7nNj5ygVh,I Don't Wanna Love Somebody Else,5XY2CyLE68jlt7nNj5ygVh,5,TRUE,126.618,163960,43,0.847,0.495,0.22,0.0000014,0.0957,-11.16,0.0355,0.345,spotify:track:5XY2CyLE68jlt7nNj5ygVh,4
-https://open.spotify.com/track/1WtMzxphD9Kxywql3L8VRa,By Your Side (feat. Tom Grennan) - SIDEPIECE Remix,1WtMzxphD9Kxywql3L8VRa,7,TRUE,126.026,206666,39,0.00488,0.607,0.848,0.038,0.328,-7.169,0.0355,0.575,spotify:track:1WtMzxphD9Kxywql3L8VRa,4
-https://open.spotify.com/track/1YLGtZjDKyY0Qkv4QlX31b,Higher Power - ZHU Remix,1YLGtZjDKyY0Qkv4QlX31b,7,FALSE,128.016,286093,45,0.00342,0.666,0.698,0.00923,0.1,-8.235,0.0355,0.147,spotify:track:1YLGtZjDKyY0Qkv4QlX31b,4
-https://open.spotify.com/track/0NMrdzOVA0mgzeCpyKjrvI,Traveller,0NMrdzOVA0mgzeCpyKjrvI,1,TRUE,125.013,250680,10,0.238,0.761,0.863,0.882,0.098,-8.177,0.0356,0.23,spotify:track:0NMrdzOVA0mgzeCpyKjrvI,4
-https://open.spotify.com/track/5ECiRe4QNdVJy1GTDA1aaq,I Know You Care,5ECiRe4QNdVJy1GTDA1aaq,9,TRUE,128.776,206170,30,0.969,0.434,0.269,0,0.123,-12.382,0.0357,0.28,spotify:track:5ECiRe4QNdVJy1GTDA1aaq,3
-https://open.spotify.com/track/6Xe9wT5xeZETPwtaP2ynUz,Levels - Original Version,6Xe9wT5xeZETPwtaP2ynUz,1,FALSE,125.99,338866,66,0.0297,0.602,0.834,0.887,0.34,-6.573,0.0358,0.353,spotify:track:6Xe9wT5xeZETPwtaP2ynUz,4
-https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX,To Feel Again / Trois,4ho6jJU2nbX0NbiF33i4tX,4,TRUE,130,293489,49,0.00335,0.496,0.873,0.896,0.099,-7.547,0.0362,0.0458,spotify:track:4ho6jJU2nbX0NbiF33i4tX,4
-https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P,Car Radio,5cbpoIu3YjoOwbBDGUEp3P,9,FALSE,129.972,267720,73,0.098,0.766,0.519,0,0.0855,-7.355,0.0366,0.612,spotify:track:5cbpoIu3YjoOwbBDGUEp3P,4
-https://open.spotify.com/track/3mfuJMGEw0iyazvK9PaqLQ,Music Is My Life (feat. Unlimited Touch),3mfuJMGEw0iyazvK9PaqLQ,5,FALSE,125.026,390277,27,0.0255,0.839,0.559,0.0595,0.0651,-9.467,0.037,0.588,spotify:track:3mfuJMGEw0iyazvK9PaqLQ,4
-https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU,Never Come Back,2xxKJgIpgiancRpSup5dHU,5,TRUE,127.991,305480,50,0.407,0.781,0.709,0.603,0.0683,-8.331,0.0371,0.651,spotify:track:2xxKJgIpgiancRpSup5dHU,4
-https://open.spotify.com/track/31NiyZrUd1r4icY7xkvnWv,Strobe,31NiyZrUd1r4icY7xkvnWv,8,FALSE,128.01,633186,50,0.013,0.433,0.444,0.856,0.121,-9.911,0.0372,0.0356,spotify:track:31NiyZrUd1r4icY7xkvnWv,4
-https://open.spotify.com/track/5FzuDFYmUFcvjraadJXv28,I Feel It,5FzuDFYmUFcvjraadJXv28,6,TRUE,125.967,155250,59,0.00411,0.566,0.954,0.0257,0.0943,-4.678,0.0376,0.887,spotify:track:5FzuDFYmUFcvjraadJXv28,4
-https://open.spotify.com/track/0bWtmYrWat7IWlpx3rmuwc,Sleeping In - Remastered,0bWtmYrWat7IWlpx3rmuwc,0,TRUE,129.004,261093,50,0.288,0.702,0.68,0.000414,0.145,-5.746,0.0376,0.538,spotify:track:0bWtmYrWat7IWlpx3rmuwc,4
-https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4,Heaven Takes You Home (feat. Connie Constance),3nEHrvNNtgLv9rneTAYVr4,0,FALSE,125.037,214071,81,0.0124,0.665,0.738,0.00598,0.0923,-5.931,0.0379,0.0389,spotify:track:3nEHrvNNtgLv9rneTAYVr4,4
-https://open.spotify.com/track/6GAnWvSZHOFIIrAcESRh6a,Your Sound,6GAnWvSZHOFIIrAcESRh6a,2,TRUE,125.007,424170,8,0.689,0.734,0.899,0.392,0.101,-7.517,0.0379,0.375,spotify:track:6GAnWvSZHOFIIrAcESRh6a,4
-https://open.spotify.com/track/3FIb81xI76x7pGPbFbzZXu,WANT NEED LOVE,3FIb81xI76x7pGPbFbzZXu,8,TRUE,126.873,241889,51,0.000823,0.429,0.683,0.00342,0.0801,-7.297,0.038,0.0536,spotify:track:3FIb81xI76x7pGPbFbzZXu,4
-https://open.spotify.com/track/2JmvwF29iUVb3oEFW4Bvf3,New York City,2JmvwF29iUVb3oEFW4Bvf3,4,FALSE,126.062,230666,14,0.0127,0.564,0.639,0,0.133,-6.828,0.038,0.0624,spotify:track:2JmvwF29iUVb3oEFW4Bvf3,4
-https://open.spotify.com/track/1vKVGg4sQDZW4eO7qLh6WM,"Love, Peace & Harmony",1vKVGg4sQDZW4eO7qLh6WM,0,TRUE,129.997,147060,44,0.0088,0.49,0.95,0.515,0.462,-5.325,0.0381,0.0785,spotify:track:1vKVGg4sQDZW4eO7qLh6WM,4
-https://open.spotify.com/track/1hZCT7LgxK5KVyLUtJMDJW,Born Slippy - Reincarnation Edit,1hZCT7LgxK5KVyLUtJMDJW,10,TRUE,125.011,249600,35,0.00345,0.674,0.819,0.0234,0.0921,-7.68,0.0383,0.117,spotify:track:1hZCT7LgxK5KVyLUtJMDJW,4
-https://open.spotify.com/track/7aRKKNCR5SJY1Gae601BMO,Sound Of The Drums,7aRKKNCR5SJY1Gae601BMO,8,FALSE,131.855,235880,20,0.482,0.615,0.57,0.00146,0.146,-8.975,0.0384,0.312,spotify:track:7aRKKNCR5SJY1Gae601BMO,4
-https://open.spotify.com/track/0LEsGGRUrZZhLPFoxeioHr,Sleepin In,0LEsGGRUrZZhLPFoxeioHr,0,TRUE,128.997,261253,0,0.234,0.715,0.635,0.000542,0.157,-6.345,0.0384,0.679,spotify:track:0LEsGGRUrZZhLPFoxeioHr,4
-https://open.spotify.com/track/58aSEVveLPGAGoyzYNgUHt,Finder - Carl Cox Remix Edit,58aSEVveLPGAGoyzYNgUHt,11,FALSE,126.023,206492,62,0.000164,0.783,0.957,0.838,0.317,-5.993,0.0385,0.43,spotify:track:58aSEVveLPGAGoyzYNgUHt,4
-https://open.spotify.com/track/5lVPbg9XJzLHsjoYcrnEXf,Real Enough To Feel Good,5lVPbg9XJzLHsjoYcrnEXf,7,FALSE,131.982,306178,27,0.226,0.767,0.685,0.661,0.149,-6.135,0.0388,0.371,spotify:track:5lVPbg9XJzLHsjoYcrnEXf,4
-https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi,Apricots,0WfOuXw05LJq4ik1lVvTzi,11,TRUE,127.986,246506,67,0.347,0.819,0.599,0.824,0.083,-6.778,0.039,0.489,spotify:track:0WfOuXw05LJq4ik1lVvTzi,4
-https://open.spotify.com/track/5W5JeZwZxK3kN9U19nkqam,Ð Ð°Ð½Ð¾-Ñ€Ð°Ð½ÐµÐ½ÑŒÐºÐ¾,5W5JeZwZxK3kN9U19nkqam,7,FALSE,128.073,249374,46,0.0256,0.581,0.722,0.0159,0.294,-5.378,0.0392,0.204,spotify:track:5W5JeZwZxK3kN9U19nkqam,4
-https://open.spotify.com/track/7vaL7BD7kwQUZV6ES9psjC,In My Head (Part I),7vaL7BD7kwQUZV6ES9psjC,5,FALSE,130.027,217846,7,0.00882,0.534,0.923,0.823,0.134,-6.599,0.0392,0.0672,spotify:track:7vaL7BD7kwQUZV6ES9psjC,4
-https://open.spotify.com/track/3yIDV5XfbGMV7nps1KJ8o5,Strobe - Full Length Version,3yIDV5XfbGMV7nps1KJ8o5,8,FALSE,128.022,634466,0,0.0104,0.432,0.444,0.9,0.12,-10.564,0.0392,0.0356,spotify:track:3yIDV5XfbGMV7nps1KJ8o5,4
-https://open.spotify.com/track/50jVzXCidtxHYjQDiQzEjV,acceptance,50jVzXCidtxHYjQDiQzEjV,5,FALSE,128.024,311978,34,0.0555,0.711,0.733,0.872,0.064,-7.891,0.0393,0.0639,spotify:track:50jVzXCidtxHYjQDiQzEjV,4
-https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0,acceptance,0hXKwRpwWlhq1wKvntu6j0,5,FALSE,128.024,311978,10,0.0555,0.711,0.733,0.872,0.064,-7.891,0.0393,0.0639,spotify:track:0hXKwRpwWlhq1wKvntu6j0,4
-https://open.spotify.com/track/078RYWTtCzEcNCjvdP4yHL,Love Affair,078RYWTtCzEcNCjvdP4yHL,2,TRUE,128.037,228879,17,0.00527,0.622,0.738,0.916,0.235,-10.594,0.0396,0.139,spotify:track:078RYWTtCzEcNCjvdP4yHL,4
-https://open.spotify.com/track/11IN4dNYE5HYeFsF3xzOIO,Wish You Were Here - Damian Lazarus Re-Shape,11IN4dNYE5HYeFsF3xzOIO,2,TRUE,126.002,724040,29,0.0771,0.59,0.579,0.866,0.126,-15.386,0.0397,0.0399,spotify:track:11IN4dNYE5HYeFsF3xzOIO,4
-https://open.spotify.com/track/0n49fCjNGsbtNOE6cuWk79,A Million Ways,0n49fCjNGsbtNOE6cuWk79,4,FALSE,130.005,193133,48,0.00041,0.641,0.745,0.287,0.108,-4.469,0.0397,0.539,spotify:track:0n49fCjNGsbtNOE6cuWk79,4
-https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm,Make Me,6RaaQvkGUe8Je8yAkdwQNm,10,FALSE,129.979,151436,72,0.0356,0.618,0.954,0.00148,0.15,-3.421,0.0399,0.702,spotify:track:6RaaQvkGUe8Je8yAkdwQNm,4
-https://open.spotify.com/track/1DiehRsdyRxbz2UUSEADkZ,Kashmer,1DiehRsdyRxbz2UUSEADkZ,8,FALSE,125.088,191332,45,0.756,0.673,0.635,0.901,0.111,-8.74,0.0399,0.484,spotify:track:1DiehRsdyRxbz2UUSEADkZ,4
-https://open.spotify.com/track/1NCZMAnGrzUmpBzkBlJjNw,It's Alright,1NCZMAnGrzUmpBzkBlJjNw,8,TRUE,128.023,175000,64,0.625,0.711,0.382,0,0.241,-10.146,0.04,0.62,spotify:track:1NCZMAnGrzUmpBzkBlJjNw,4
-https://open.spotify.com/track/1iLU3hQxwqvCQW7v4wzLuF,I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir) - James Hype Remix,1iLU3hQxwqvCQW7v4wzLuF,1,TRUE,126.018,201714,52,0.00345,0.725,0.894,0.00311,0.317,-4.54,0.0405,0.231,spotify:track:1iLU3hQxwqvCQW7v4wzLuF,4
-https://open.spotify.com/track/2nHBfIdQ4ndFNaWilLdBUN,Ecstasy (Over & Over),2nHBfIdQ4ndFNaWilLdBUN,10,TRUE,128.012,216796,53,0.00426,0.757,0.82,0.421,0.173,-4.999,0.0406,0.656,spotify:track:2nHBfIdQ4ndFNaWilLdBUN,4
-https://open.spotify.com/track/4hWhNL4cLfhLrt4Un3pdMG,Break,4hWhNL4cLfhLrt4Un3pdMG,8,FALSE,127.979,293520,46,0.014,0.623,0.541,0.00616,0.106,-8.495,0.0408,0.338,spotify:track:4hWhNL4cLfhLrt4Un3pdMG,4
-https://open.spotify.com/track/4BNYPLZUff4LyxLQlTYzbH,Elizabeth Street,4BNYPLZUff4LyxLQlTYzbH,7,FALSE,126.006,216586,42,0.00784,0.66,0.776,0.919,0.117,-7.051,0.0411,0.327,spotify:track:4BNYPLZUff4LyxLQlTYzbH,4
-https://open.spotify.com/track/3BfLcQOyP6ovmQFTYfhIx4,Nordpol,3BfLcQOyP6ovmQFTYfhIx4,7,TRUE,126.008,400101,43,0.00724,0.778,0.864,0.895,0.0952,-9.741,0.0413,0.0275,spotify:track:3BfLcQOyP6ovmQFTYfhIx4,4
-https://open.spotify.com/track/7G7LODyELWUhyA9GoFwcWa,Trees,7G7LODyELWUhyA9GoFwcWa,2,FALSE,127.999,455500,22,0.000226,0.651,0.906,0.828,0.262,-6.732,0.0416,0.478,spotify:track:7G7LODyELWUhyA9GoFwcWa,4
-https://open.spotify.com/track/3s4vo3MRq4u5ogEQYtydfT,Essa Mina,3s4vo3MRq4u5ogEQYtydfT,11,TRUE,129.996,370946,44,0.000648,0.757,0.947,0.843,0.0528,-6.158,0.0417,0.365,spotify:track:3s4vo3MRq4u5ogEQYtydfT,4
-https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T,The Only Way Out Is Through,35bAjRIbS6LGuxCR9aP92T,3,FALSE,125.003,494109,42,0.289,0.681,0.913,0.927,0.0997,-7.75,0.0422,0.248,spotify:track:35bAjRIbS6LGuxCR9aP92T,4
-https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l,Yeah The Girls,2ST4u9GusI2ddDfuMvXA5l,8,TRUE,126.007,194310,68,0.00117,0.755,0.968,0.773,0.103,-5.282,0.0424,0.785,spotify:track:2ST4u9GusI2ddDfuMvXA5l,4
-https://open.spotify.com/track/5nWbbQ0sIEabqPxAdqmh66,Sweet Disposition,5nWbbQ0sIEabqPxAdqmh66,2,TRUE,129.088,234680,0,0.078,0.54,0.804,0.171,0.115,-7.112,0.0425,0.347,spotify:track:5nWbbQ0sIEabqPxAdqmh66,4
-https://open.spotify.com/track/1vlnbR9iKNLCAlEDNSBrxj,Revolution,1vlnbR9iKNLCAlEDNSBrxj,0,TRUE,129.999,247404,49,0.00981,0.668,0.866,0.451,0.107,-5.286,0.0426,0.281,spotify:track:1vlnbR9iKNLCAlEDNSBrxj,4
-https://open.spotify.com/track/2TiScOosbsRqWWYHGorx1h,How Does It Feel,2TiScOosbsRqWWYHGorx1h,2,TRUE,128.005,185624,35,0.0223,0.732,0.766,0.00568,0.259,-8.216,0.0429,0.687,spotify:track:2TiScOosbsRqWWYHGorx1h,4
-https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP,KILL DEM,5CE0k1VmTXgCtaa5L288LP,2,TRUE,128.004,223536,65,0.00344,0.788,0.873,0.311,0.332,-6.188,0.0431,0.291,spotify:track:5CE0k1VmTXgCtaa5L288LP,4
-https://open.spotify.com/track/7kAJWULoQUsWiiTJp2951Y,Bby,7kAJWULoQUsWiiTJp2951Y,2,TRUE,130.009,343341,49,0.0327,0.561,0.601,0.867,0.0697,-8.792,0.0432,0.0944,spotify:track:7kAJWULoQUsWiiTJp2951Y,4
-https://open.spotify.com/track/4tVC4zLwxeqAS8rerZ2VaH,In My Head (Part II),4tVC4zLwxeqAS8rerZ2VaH,10,FALSE,129.996,356304,24,0.000294,0.568,0.869,0.884,0.104,-6.803,0.0432,0.231,spotify:track:4tVC4zLwxeqAS8rerZ2VaH,4
-https://open.spotify.com/track/04mYhQGTujxxPjPzxRrgTL,Whisper (with James Yuill) - John Summit Remix,04mYhQGTujxxPjPzxRrgTL,0,TRUE,127.008,184271,38,0.00136,0.801,0.671,0.737,0.117,-8.286,0.0432,0.406,spotify:track:04mYhQGTujxxPjPzxRrgTL,4
-https://open.spotify.com/track/6WLZljpPR8EiUT2LDubJ6T,Aguila ft. Cumbiafrica,6WLZljpPR8EiUT2LDubJ6T,6,FALSE,125.001,168600,69,0.00304,0.812,0.816,0.000128,0.112,-5.584,0.0432,0.211,spotify:track:6WLZljpPR8EiUT2LDubJ6T,4
-https://open.spotify.com/track/5noFr0H7xkDdpVa3jCdiDk,Nu World,5noFr0H7xkDdpVa3jCdiDk,0,TRUE,125.997,351723,36,0.000514,0.698,0.774,0.626,0.0939,-7.377,0.0433,0.394,spotify:track:5noFr0H7xkDdpVa3jCdiDk,4
-https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z,Sonder,2wynpXzuXf6Cvf2MqHYA9Z,5,FALSE,127.976,181873,63,0.313,0.596,0.606,0.846,0.0979,-11.716,0.0433,0.811,spotify:track:2wynpXzuXf6Cvf2MqHYA9Z,4
-https://open.spotify.com/track/6o4BO9LLCPe5p43YKZzFuv,Trompeta,6o4BO9LLCPe5p43YKZzFuv,2,TRUE,126.006,188571,64,0.00245,0.691,0.918,0.864,0.0612,-5.619,0.0435,0.464,spotify:track:6o4BO9LLCPe5p43YKZzFuv,4
-https://open.spotify.com/track/387t13BOBNfxBdKP7M1zVA,Static (Edit),387t13BOBNfxBdKP7M1zVA,7,TRUE,126.987,205925,30,0.0135,0.637,0.856,0.935,0.0597,-9.661,0.0436,0.554,spotify:track:387t13BOBNfxBdKP7M1zVA,4
-https://open.spotify.com/track/71QzpNzL1Q6KPOV5ilyBVW,Alone,71QzpNzL1Q6KPOV5ilyBVW,8,TRUE,126.001,333569,44,0.0341,0.802,0.556,0.914,0.079,-12.989,0.0437,0.0371,spotify:track:71QzpNzL1Q6KPOV5ilyBVW,4
-https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM,Endless Sky,3oHOObxpYRdsRwVqizxWNM,8,TRUE,130.015,159562,41,0.136,0.75,0.821,0.0503,0.325,-6.504,0.0437,0.654,spotify:track:3oHOObxpYRdsRwVqizxWNM,4
-https://open.spotify.com/track/0jSBR3nqnUny3MTPaceqQD,Tropicaliente,0jSBR3nqnUny3MTPaceqQD,5,TRUE,127.287,212097,16,0.0142,0.645,0.802,0.885,0.18,-9.185,0.0438,0.334,spotify:track:0jSBR3nqnUny3MTPaceqQD,4
-https://open.spotify.com/track/0dAY4aJFw74le3PMh3wOHC,Jaigantic - Galimatias Remix,0dAY4aJFw74le3PMh3wOHC,5,TRUE,130.021,179998,45,0.103,0.642,0.539,0,0.35,-6.859,0.0438,0.476,spotify:track:0dAY4aJFw74le3PMh3wOHC,4
-https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd,Sweet Disposition,5RoIXwyTCdyUjpMMkk4uPd,2,TRUE,129.139,230800,70,0.0701,0.531,0.821,0.171,0.124,-6.812,0.0439,0.34,spotify:track:5RoIXwyTCdyUjpMMkk4uPd,4
-https://open.spotify.com/track/01fVbxyW9y2oKdXvg56uE5,Soul Sacrifice,01fVbxyW9y2oKdXvg56uE5,9,TRUE,126.035,232211,51,0.00783,0.847,0.934,0.494,0.0797,-5.381,0.0442,0.863,spotify:track:01fVbxyW9y2oKdXvg56uE5,4
-https://open.spotify.com/track/07IzJw23z4zcqeZ4zVoc3d,How Does It Feel - Endor Remix,07IzJw23z4zcqeZ4zVoc3d,7,TRUE,125.999,205724,32,0.000808,0.798,0.807,0.252,0.0554,-5.646,0.0442,0.605,spotify:track:07IzJw23z4zcqeZ4zVoc3d,4
-https://open.spotify.com/track/3Qc4T3N0f3rbRl5h0RJr7b,Astral Palace,3Qc4T3N0f3rbRl5h0RJr7b,5,TRUE,130.038,264000,13,0.434,0.565,0.575,0.0924,0.11,-7.678,0.0446,0.158,spotify:track:3Qc4T3N0f3rbRl5h0RJr7b,4
-https://open.spotify.com/track/2o2LnWqiZ5PftYoROPdbE2,Magdalena,2o2LnWqiZ5PftYoROPdbE2,1,TRUE,130.957,199053,38,0.00522,0.614,0.838,0.00000234,0.141,-5.873,0.0448,0.728,spotify:track:2o2LnWqiZ5PftYoROPdbE2,4
-https://open.spotify.com/track/0RoGOiZUCQyqAZSPBSk75T,Make Me Feel,0RoGOiZUCQyqAZSPBSk75T,2,TRUE,126.013,201904,66,0.0251,0.767,0.669,0.833,0.117,-9.151,0.0449,0.435,spotify:track:0RoGOiZUCQyqAZSPBSk75T,4
-https://open.spotify.com/track/57ou24UwjNCXY2umuGtoCf,Happinezz - Edit,57ou24UwjNCXY2umuGtoCf,7,TRUE,125.023,245760,54,0.00468,0.751,0.509,0.76,0.128,-12.551,0.0449,0.266,spotify:track:57ou24UwjNCXY2umuGtoCf,4
-https://open.spotify.com/track/2Yr00kd5y8LyjhDHvKR3CN,Pasaeo,2Yr00kd5y8LyjhDHvKR3CN,1,FALSE,128.03,142686,3,0.455,0.758,0.621,0,0.767,-9.405,0.0451,0.75,spotify:track:2Yr00kd5y8LyjhDHvKR3CN,4
-https://open.spotify.com/track/0oSWQjfe5dnRPbXQnZNJ4u,WORD,0oSWQjfe5dnRPbXQnZNJ4u,1,FALSE,125.002,211200,43,0.000917,0.664,0.926,0.244,0.0781,-5.519,0.0456,0.711,spotify:track:0oSWQjfe5dnRPbXQnZNJ4u,4
-https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL,Walking On A Dream,0mBkoM8r7KAQzZij5swTUL,5,FALSE,126.967,198440,62,0.245,0.87,0.699,0.00000676,0.0588,-5.541,0.0459,0.726,spotify:track:0mBkoM8r7KAQzZij5swTUL,4
-https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9,Serotonin Moonbeams,0hJfuyUwtEYMlGgvr3nzz9,8,FALSE,131.022,289471,72,0.0332,0.817,0.876,0.199,0.412,-7.485,0.046,0.671,spotify:track:0hJfuyUwtEYMlGgvr3nzz9,4
-https://open.spotify.com/track/6rMDUHBXp1yYr3qftxfXG5,Take Me Back,6rMDUHBXp1yYr3qftxfXG5,11,TRUE,129.988,197502,29,0.0155,0.689,0.833,0.637,0.196,-5.967,0.046,0.767,spotify:track:6rMDUHBXp1yYr3qftxfXG5,4
-https://open.spotify.com/track/6AGP3yzcdhntXx6MEyN91x,Unique,6AGP3yzcdhntXx6MEyN91x,7,TRUE,126.014,427865,16,0.00575,0.802,0.929,0.839,0.107,-7.412,0.0461,0.334,spotify:track:6AGP3yzcdhntXx6MEyN91x,4
-https://open.spotify.com/track/2ndF5ctDJrYK3eJhRbp1jO,Until You Were Gone (feat. Emily Warren),2ndF5ctDJrYK3eJhRbp1jO,1,TRUE,128.085,217040,42,0.0492,0.569,0.635,0,0.0569,-7.382,0.0461,0.363,spotify:track:2ndF5ctDJrYK3eJhRbp1jO,4
-https://open.spotify.com/track/7keTmM7ztouZFvyCzCja7S,Sinner - Extended Mix,7keTmM7ztouZFvyCzCja7S,8,TRUE,126.989,372337,10,0.0175,0.766,0.743,0.395,0.0529,-7.376,0.0461,0.683,spotify:track:7keTmM7ztouZFvyCzCja7S,4
-https://open.spotify.com/track/2isZA3W8kLNBi0PC7ZHunG,Jaigantic - Galimatias Remix,2isZA3W8kLNBi0PC7ZHunG,5,TRUE,130.076,179998,0,0.0878,0.663,0.444,0,0.358,-10.302,0.0462,0.47,spotify:track:2isZA3W8kLNBi0PC7ZHunG,4
-https://open.spotify.com/track/4n8fxV2m3ESCoQgOaMrR2n,Murphy - Edit,4n8fxV2m3ESCoQgOaMrR2n,5,FALSE,126.008,308571,39,0.0000708,0.667,0.861,0.917,0.0976,-8.381,0.0466,0.271,spotify:track:4n8fxV2m3ESCoQgOaMrR2n,3
-https://open.spotify.com/track/7emyMM3g0FzmnD63w3TNoE,Lazy Eye,7emyMM3g0FzmnD63w3TNoE,4,TRUE,127.401,354360,0,0.0438,0.629,0.809,0.714,0.115,-4.886,0.0466,0.333,spotify:track:7emyMM3g0FzmnD63w3TNoE,4
-https://open.spotify.com/track/3CrFr7JnfUHJYX5I49e9TV,Calling Occupants Of Interplanetary Craft (The Recognized Anthem Of World Contact Day),3CrFr7JnfUHJYX5I49e9TV,11,TRUE,130.617,425893,43,0.37,0.431,0.273,0.000247,0.439,-14.677,0.0468,0.339,spotify:track:3CrFr7JnfUHJYX5I49e9TV,4
-https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k,Brisas Del Mar,3KYgsHPXp1pOywoYkUmh6k,8,FALSE,125.988,196500,38,0.0107,0.662,0.945,0.311,0.541,-5.306,0.0468,0.819,spotify:track:3KYgsHPXp1pOywoYkUmh6k,4
-https://open.spotify.com/track/6EL95M2kQPDj6YfqOZxGgF,Get Me High,6EL95M2kQPDj6YfqOZxGgF,6,TRUE,130.001,315723,33,0.00404,0.676,0.799,0.318,0.0387,-7.561,0.0469,0.634,spotify:track:6EL95M2kQPDj6YfqOZxGgF,4
-https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby,Wurk,4Ynibk8PO978n4voJ1Uzby,7,TRUE,128.003,168768,35,0.0000497,0.798,0.965,0.901,0.0398,-6.796,0.047,0.803,spotify:track:4Ynibk8PO978n4voJ1Uzby,4
-https://open.spotify.com/track/2LBvrCD0wMCzJAhmE1muGM,Can't Do Without You,2LBvrCD0wMCzJAhmE1muGM,0,TRUE,128.008,236040,0,0.764,0.692,0.404,0.804,0.801,-9.037,0.0471,0.519,spotify:track:2LBvrCD0wMCzJAhmE1muGM,4
-https://open.spotify.com/track/6X6LIhmk6XVblq7meVQ4Kn,Pree Me (Chris Lorenzo Remix),6X6LIhmk6XVblq7meVQ4Kn,8,FALSE,130.001,280620,35,0.00207,0.869,0.647,0.819,0.0746,-8.857,0.0472,0.434,spotify:track:6X6LIhmk6XVblq7meVQ4Kn,4
-https://open.spotify.com/track/0tUBJgHumIS69lTHJ94bRM,Move & Breathe,0tUBJgHumIS69lTHJ94bRM,11,FALSE,125.021,205440,22,0.000705,0.805,0.843,0.835,0.0507,-4.067,0.0472,0.435,spotify:track:0tUBJgHumIS69lTHJ94bRM,4
-https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj,Can't Do Without You,5owacNcWuezb4JHoGdoQSj,0,TRUE,128.035,236400,55,0.79,0.691,0.407,0.656,0.783,-9.053,0.0473,0.491,spotify:track:5owacNcWuezb4JHoGdoQSj,4
-https://open.spotify.com/track/2C0KFbb4v9CNWR5c9jWcKC,Andromeda (feat. DRAM),2C0KFbb4v9CNWR5c9jWcKC,0,TRUE,130.084,197546,68,0.003,0.788,0.472,0.0322,0.59,-9.021,0.0475,0.257,spotify:track:2C0KFbb4v9CNWR5c9jWcKC,4
-https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3,Back Tomorrow,4q2azQakSVVyqljRiCZtu3,8,TRUE,125.012,118871,61,0.0595,0.689,0.791,0,0.51,-6.633,0.0478,0.543,spotify:track:4q2azQakSVVyqljRiCZtu3,4
-https://open.spotify.com/track/0FNe7NgezZD4P0lkFcMrKQ,Hawksworth Woods,0FNe7NgezZD4P0lkFcMrKQ,6,TRUE,130.999,452519,20,0.932,0.69,0.755,0.811,0.0804,-11.532,0.0478,0.385,spotify:track:0FNe7NgezZD4P0lkFcMrKQ,4
-https://open.spotify.com/track/3u8MPhC5MUkd8qPzxLoHQb,Maquina De Bailar,3u8MPhC5MUkd8qPzxLoHQb,11,FALSE,127.996,210000,43,0.0135,0.771,0.897,0.846,0.335,-8.245,0.048,0.261,spotify:track:3u8MPhC5MUkd8qPzxLoHQb,4
-https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX,Take Me to Church,0aOluBqXYd0rFSCsgDyAWX,4,FALSE,129.07,241693,67,0.637,0.575,0.664,0,0.116,-5.303,0.0481,0.437,spotify:track:0aOluBqXYd0rFSCsgDyAWX,4
-https://open.spotify.com/track/5wKVFoSD7ppsjTvsniDGes,Bang That,5wKVFoSD7ppsjTvsniDGes,11,TRUE,125,324541,40,0.000373,0.729,0.843,0.678,0.355,-6,0.0482,0.648,spotify:track:5wKVFoSD7ppsjTvsniDGes,4
-https://open.spotify.com/track/4OwMTUrschknwvALozCuoD,London. Paris. Berlin.,4OwMTUrschknwvALozCuoD,1,FALSE,127.986,245200,49,0.505,0.774,0.793,0.745,0.0932,-10.899,0.0483,0.685,spotify:track:4OwMTUrschknwvALozCuoD,4
-https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy,Give It to Me,6joEpIEWpZYrezVvqrbvxy,6,TRUE,126.047,210000,65,0.00132,0.838,0.664,0.035,0.131,-8.126,0.0484,0.545,spotify:track:6joEpIEWpZYrezVvqrbvxy,4
-https://open.spotify.com/track/20E9dy0EgyhQLZL5JerHmb,Love - Radio Edit,20E9dy0EgyhQLZL5JerHmb,5,FALSE,125.027,242880,3,0.484,0.663,0.818,0.676,0.0899,-8.232,0.0485,0.148,spotify:track:20E9dy0EgyhQLZL5JerHmb,4
-https://open.spotify.com/track/02617jpcGEjoUCRsFrkXfv,Rattle,02617jpcGEjoUCRsFrkXfv,0,FALSE,127.991,409749,32,0.00321,0.759,0.826,0.871,0.0849,-10.339,0.0487,0.0759,spotify:track:02617jpcGEjoUCRsFrkXfv,4
-https://open.spotify.com/track/6nnuDhdxswKCMi9HLzYUId,Toque De Palo - Edit,6nnuDhdxswKCMi9HLzYUId,5,FALSE,125.01,234240,32,0.227,0.834,0.847,0.643,0.0792,-8.312,0.0494,0.484,spotify:track:6nnuDhdxswKCMi9HLzYUId,4
-https://open.spotify.com/track/5w22aDDwvWR0puSp6ZL6LJ,Tessellate - Bonus Track,5w22aDDwvWR0puSp6ZL6LJ,2,TRUE,129.736,236960,39,0.907,0.628,0.28,0.0159,0.151,-10.843,0.0495,0.399,spotify:track:5w22aDDwvWR0puSp6ZL6LJ,4
-https://open.spotify.com/track/3kN8TbvcpxNElCd29q1K46,You Don't Know,3kN8TbvcpxNElCd29q1K46,9,FALSE,129.85,199384,37,0.156,0.313,0.952,0.658,0.523,-4.222,0.0495,0.333,spotify:track:3kN8TbvcpxNElCd29q1K46,4
-https://open.spotify.com/track/0tlztRFDgCSnAbUxllcZJJ,J'adore,0tlztRFDgCSnAbUxllcZJJ,5,TRUE,131.998,252590,45,0.187,0.782,0.748,0.917,0.0714,-8.843,0.0498,0.216,spotify:track:0tlztRFDgCSnAbUxllcZJJ,4
-https://open.spotify.com/track/66KnxPOG7pEbzqyKhLaIE0,Jeanette,66KnxPOG7pEbzqyKhLaIE0,8,FALSE,130.006,374360,43,0.653,0.583,0.542,0.884,0.117,-14.645,0.0503,0.286,spotify:track:66KnxPOG7pEbzqyKhLaIE0,4
-https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5,Unholy (feat. Kim Petras) - Disclosure Remix,2Tl5fhF4itz5VeXHRVGIO5,1,TRUE,127.998,234411,67,0.00476,0.736,0.783,0.0055,0.343,-6.765,0.0504,0.179,spotify:track:2Tl5fhF4itz5VeXHRVGIO5,4
-https://open.spotify.com/track/7ygZMvmeGntR1bYd7AUnTG,X33 (Angelâ˜†Type!),7ygZMvmeGntR1bYd7AUnTG,1,TRUE,131.992,265750,12,0.00243,0.627,0.721,0.832,0.365,-10.519,0.0504,0.23,spotify:track:7ygZMvmeGntR1bYd7AUnTG,4
-https://open.spotify.com/track/4y5CHkxTCrgi5coGEAMfMc,Unholy (feat. Kim Petras) - Disclosure Remix,4y5CHkxTCrgi5coGEAMfMc,1,TRUE,128.014,234411,56,0.00495,0.742,0.778,0.00754,0.343,-6.762,0.0505,0.171,spotify:track:4y5CHkxTCrgi5coGEAMfMc,4
-https://open.spotify.com/track/5KGn7C4GflN0EFMNqDmUY9,Hold Up,5KGn7C4GflN0EFMNqDmUY9,8,FALSE,126,228571,43,0.00785,0.805,0.904,0.9,0.0396,-6.717,0.0507,0.501,spotify:track:5KGn7C4GflN0EFMNqDmUY9,4
-https://open.spotify.com/track/6qEjvGlo4BjFdd3eM9RHOR,Raw - Original Mix,6qEjvGlo4BjFdd3eM9RHOR,1,TRUE,125.024,368647,3,0.085,0.803,0.96,0.917,0.0879,-8.276,0.0508,0.891,spotify:track:6qEjvGlo4BjFdd3eM9RHOR,4
-https://open.spotify.com/track/3HybwTm4C1n07gqg85f8qt,Get This Party Started,3HybwTm4C1n07gqg85f8qt,11,FALSE,126.076,160000,61,0.000953,0.756,0.748,0.395,0.0749,-6.714,0.0511,0.678,spotify:track:3HybwTm4C1n07gqg85f8qt,4
-https://open.spotify.com/track/6OPf7G2HY8YRoCWHKy2CTy,Bodied,6OPf7G2HY8YRoCWHKy2CTy,1,FALSE,130.002,370129,19,0.000429,0.763,0.995,0.891,0.0957,-8.257,0.0511,0.508,spotify:track:6OPf7G2HY8YRoCWHKy2CTy,4
-https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS,Talamanca,7dDLAQ1y0qOq3E4DhNh8FS,11,FALSE,126.006,186727,65,0.0988,0.683,0.77,0.896,0.379,-6.641,0.0512,0.527,spotify:track:7dDLAQ1y0qOq3E4DhNh8FS,4
-https://open.spotify.com/track/39fTOnYqGqM00A6xaIqtJn,Muy Bien,39fTOnYqGqM00A6xaIqtJn,11,TRUE,125.009,415500,41,0.0276,0.802,0.855,0.879,0.099,-8.807,0.0513,0.207,spotify:track:39fTOnYqGqM00A6xaIqtJn,4
-https://open.spotify.com/track/1Lgvs8WzpPbT5VuUFIAJwt,When The Summer Dies,1Lgvs8WzpPbT5VuUFIAJwt,1,TRUE,127.986,329531,59,0.000472,0.795,0.642,0.0522,0.226,-7.094,0.0516,0.446,spotify:track:1Lgvs8WzpPbT5VuUFIAJwt,4
-https://open.spotify.com/track/0tDLgk68YwAdZXPTySqIVW,t9,0tDLgk68YwAdZXPTySqIVW,2,FALSE,130.007,295380,34,0.018,0.709,0.847,0.848,0.058,-7.991,0.0518,0.0376,spotify:track:0tDLgk68YwAdZXPTySqIVW,4
-https://open.spotify.com/track/3BaOCVZmerePIy6fOdrU8R,Shout,3BaOCVZmerePIy6fOdrU8R,7,TRUE,126,472567,5,0.00424,0.764,0.876,0.92,0.0728,-6.903,0.0518,0.0378,spotify:track:3BaOCVZmerePIy6fOdrU8R,4
-https://open.spotify.com/track/0XOGMHeNwgu5tV0Z8BqDyD,Rolla,0XOGMHeNwgu5tV0Z8BqDyD,8,TRUE,125.99,382908,15,0.00678,0.802,0.945,0.818,0.0873,-6.836,0.0522,0.494,spotify:track:0XOGMHeNwgu5tV0Z8BqDyD,4
-https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi,Move Your Body,6GomT970rCOkKAyyrwJeZi,2,FALSE,125.051,157444,82,0.0169,0.848,0.821,0.000403,0.0962,-5.408,0.0527,0.249,spotify:track:6GomT970rCOkKAyyrwJeZi,4
-https://open.spotify.com/track/6jnw0Ej2zvqMI7iOGctTfP,Follow You,6jnw0Ej2zvqMI7iOGctTfP,7,TRUE,127.995,244262,44,0.33,0.742,0.727,0.88,0.101,-8.362,0.0534,0.822,spotify:track:6jnw0Ej2zvqMI7iOGctTfP,4
-https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx,Helena Beat,4VbDJMkAX3dWNBdn3KH6Wx,5,FALSE,126.968,276173,67,0.0127,0.67,0.876,0.00302,0.109,-4.905,0.0536,0.736,spotify:track:4VbDJMkAX3dWNBdn3KH6Wx,4
-https://open.spotify.com/track/5F84K2ltGbHKMYbmujjt8W,Thinking About You ft Juliet Fox - Original Mix,5F84K2ltGbHKMYbmujjt8W,1,TRUE,126.006,402904,47,0.000155,0.825,0.794,0.911,0.09,-8.611,0.0536,0.27,spotify:track:5F84K2ltGbHKMYbmujjt8W,4
-https://open.spotify.com/track/6BUzs4g1OvThxUalMhL6b8,Deeper,6BUzs4g1OvThxUalMhL6b8,6,TRUE,128.05,229970,39,0.181,0.598,0.807,0.797,0.202,-8.478,0.0538,0.158,spotify:track:6BUzs4g1OvThxUalMhL6b8,4
-https://open.spotify.com/track/6SYH3khYd6Mum1cKf8sRux,Flores No Mar - Album Edit,6SYH3khYd6Mum1cKf8sRux,6,FALSE,126.017,493760,29,0.203,0.751,0.371,0.869,0.15,-10.562,0.0538,0.0549,spotify:track:6SYH3khYd6Mum1cKf8sRux,4
-https://open.spotify.com/track/5ukTUKLwsaThljUaV6IVAs,In My Arms - Edit,5ukTUKLwsaThljUaV6IVAs,10,FALSE,126.327,225400,47,0.00355,0.693,0.911,0.577,0.35,-10.002,0.0539,0.147,spotify:track:5ukTUKLwsaThljUaV6IVAs,4
-https://open.spotify.com/track/1QY1JdMErccck5JBqqI7tH,Holsten,1QY1JdMErccck5JBqqI7tH,7,TRUE,128.009,341137,28,0.0517,0.702,0.887,0.93,0.164,-5.817,0.0545,0.319,spotify:track:1QY1JdMErccck5JBqqI7tH,4
-https://open.spotify.com/track/5V4KHyB9UVSzTSmeCGUxn1,Answer - Boogietraxx Remix,5V4KHyB9UVSzTSmeCGUxn1,6,TRUE,126.993,355275,0,0.0116,0.711,0.89,0.902,0.82,-8.312,0.0547,0.962,spotify:track:5V4KHyB9UVSzTSmeCGUxn1,4
-https://open.spotify.com/track/4cRARb9zkV4gk33KAl7cBI,Work It - Extended Club Mix,4cRARb9zkV4gk33KAl7cBI,1,TRUE,125.009,341760,19,0.000161,0.812,0.908,0.268,0.0607,-6.972,0.0552,0.703,spotify:track:4cRARb9zkV4gk33KAl7cBI,4
-https://open.spotify.com/track/0tadBEpYN4YIBDWcvV2Mfq,Colors,0tadBEpYN4YIBDWcvV2Mfq,5,FALSE,126.991,201141,44,0.429,0.825,0.733,0.00755,0.0882,-7.251,0.0552,0.622,spotify:track:0tadBEpYN4YIBDWcvV2Mfq,4
-https://open.spotify.com/track/39pclaQXwUGiwcA47Hk3QF,Hyper,39pclaQXwUGiwcA47Hk3QF,4,TRUE,127.995,223007,29,0.0035,0.741,0.933,0.905,0.0575,-7.417,0.0563,0.395,spotify:track:39pclaQXwUGiwcA47Hk3QF,4
-https://open.spotify.com/track/4JcTXkYVNPHlvrCoTNtIyh,Short Dick Man - Monodisco Remix,4JcTXkYVNPHlvrCoTNtIyh,9,FALSE,125.019,392097,12,0.00584,0.825,0.768,0.818,0.0655,-6.759,0.0563,0.0699,spotify:track:4JcTXkYVNPHlvrCoTNtIyh,4
-https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE,"Munda Sona Hoon Main (From ""Shehzada"")",0NODNDsiY0sK5P0TnmDMSE,9,FALSE,130.024,229947,71,0.271,0.775,0.83,0,0.191,-4.905,0.0571,0.913,spotify:track:0NODNDsiY0sK5P0TnmDMSE,4
-https://open.spotify.com/track/0XP4jb9IjvliEXDt8rK3XY,Amor,0XP4jb9IjvliEXDt8rK3XY,3,FALSE,125.992,155714,63,0.0358,0.804,0.973,0.675,0.323,-5.962,0.0575,0.491,spotify:track:0XP4jb9IjvliEXDt8rK3XY,4
-https://open.spotify.com/track/0usw4LN0l0sNpAX5tFcPJp,Shakuhachi,0usw4LN0l0sNpAX5tFcPJp,9,FALSE,130.99,354098,7,0.00144,0.781,0.72,0.762,0.069,-8.279,0.0581,0.733,spotify:track:0usw4LN0l0sNpAX5tFcPJp,4
-https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR,World Hold On - FISHER Rework,2YDOjCfkGciEXxSutB6LJR,1,FALSE,127.008,178304,77,0.00596,0.771,0.883,0.00607,0.135,-5.243,0.0584,0.895,spotify:track:2YDOjCfkGciEXxSutB6LJR,4
-https://open.spotify.com/track/2iCkWaXZ4XcwvLDcN2bwnO,Masala - Pablo Fierro Remix,2iCkWaXZ4XcwvLDcN2bwnO,2,TRUE,125.032,418468,50,0.00218,0.799,0.646,0.799,0.0613,-10.318,0.0591,0.131,spotify:track:2iCkWaXZ4XcwvLDcN2bwnO,4
-https://open.spotify.com/track/3gotUs36vZblqm50H5YOd7,Ecstacy Is On Maple Mountain,3gotUs36vZblqm50H5YOd7,7,TRUE,125.96,338623,0,0.00174,0.662,0.805,0.75,0.0426,-7.638,0.0594,0.313,spotify:track:3gotUs36vZblqm50H5YOd7,4
-https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G,Guddi Riddim,5yN3wXc6fvM5SPTFjL6c4G,9,FALSE,127.984,210000,67,0.00147,0.72,0.978,0.819,0.0283,-4.495,0.0595,0.196,spotify:track:5yN3wXc6fvM5SPTFjL6c4G,4
-https://open.spotify.com/track/1hLym0uB07gKmm6GMjUBOR,Stronger,1hLym0uB07gKmm6GMjUBOR,0,TRUE,126.032,181190,26,0.0105,0.694,0.8,0.00509,0.358,-6.066,0.0595,0.532,spotify:track:1hLym0uB07gKmm6GMjUBOR,4
-https://open.spotify.com/track/2caABDipxldhTNWvVMNh0U,Ecstacy Is On Maple Mountain,2caABDipxldhTNWvVMNh0U,7,TRUE,125.963,338623,25,0.00173,0.662,0.805,0.75,0.0427,-7.638,0.0596,0.314,spotify:track:2caABDipxldhTNWvVMNh0U,4
-https://open.spotify.com/track/0o0nJ6zijP5u2z0wuXmLIH,Linguere,0o0nJ6zijP5u2z0wuXmLIH,0,TRUE,127.051,318425,0,0.00162,0.913,0.773,0.853,0.0695,-4.947,0.0597,0.0858,spotify:track:0o0nJ6zijP5u2z0wuXmLIH,4
-https://open.spotify.com/track/7E2cLbyZ1TmSFpjr8F5aOw,Stomp (Move Jump Jack Your Body),7E2cLbyZ1TmSFpjr8F5aOw,2,TRUE,128.01,105468,9,0.0162,0.692,0.864,0.0635,0.374,-10.254,0.0603,0.966,spotify:track:7E2cLbyZ1TmSFpjr8F5aOw,4
-https://open.spotify.com/track/5e87VvQuL0zrevjwmYkjXe,GITANA,5e87VvQuL0zrevjwmYkjXe,2,TRUE,125.003,418560,20,0.000183,0.83,0.728,0.905,0.0437,-6.158,0.0606,0.166,spotify:track:5e87VvQuL0zrevjwmYkjXe,4
-https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl,Rainfall (Praise You),1M8t1j3Kv2qp97bdq5q4Vl,5,FALSE,128.039,166569,78,0.14,0.767,0.862,0.0092,0.252,-5.464,0.0606,0.509,spotify:track:1M8t1j3Kv2qp97bdq5q4Vl,4
-https://open.spotify.com/track/2tW2Kn1IGFFVfRVnQE2UaQ,In My Mind (feat. Georgi Kay) - Axwell Radio Edit,2tW2Kn1IGFFVfRVnQE2UaQ,7,FALSE,128.025,185624,1,0.0435,0.51,0.831,0.00000314,0.346,-4.514,0.0606,0.376,spotify:track:2tW2Kn1IGFFVfRVnQE2UaQ,4
-https://open.spotify.com/track/1lE04bEDkNV9QSd2THlycs,La Mama De La Mama De La Mama Tik Tok - Remix,1lE04bEDkNV9QSd2THlycs,11,TRUE,125.001,387830,31,0.0209,0.792,0.995,0.591,0.546,-6.336,0.0608,0.514,spotify:track:1lE04bEDkNV9QSd2THlycs,4
-https://open.spotify.com/track/5S8TSNkc2BpLpp76qPlN08,Marrakech Express,5S8TSNkc2BpLpp76qPlN08,8,TRUE,126.048,175882,16,0.287,0.704,0.417,0.109,0.101,-12.521,0.061,0.279,spotify:track:5S8TSNkc2BpLpp76qPlN08,4
-https://open.spotify.com/track/1C64MJBqmR3kl32px5BX3r,Insomnia 2021 - Epic Mix,1C64MJBqmR3kl32px5BX3r,9,TRUE,126.001,465865,43,0.0024,0.719,0.948,0.226,0.0875,-5.591,0.0613,0.19,spotify:track:1C64MJBqmR3kl32px5BX3r,4
-https://open.spotify.com/track/7sLnn2UOttrEPBZSFyIsYh,Wolfgang's 5th Symphony,7sLnn2UOttrEPBZSFyIsYh,8,TRUE,127.996,450937,42,0.0000468,0.836,0.412,0.862,0.0561,-5.156,0.062,0.117,spotify:track:7sLnn2UOttrEPBZSFyIsYh,4
-https://open.spotify.com/track/3eOZPj3ZLFBekXQOBZRKTC,Wolfgang's 5th Symphony,3eOZPj3ZLFBekXQOBZRKTC,8,TRUE,127.996,450937,0,0.0000468,0.836,0.412,0.862,0.0562,-5.156,0.062,0.117,spotify:track:3eOZPj3ZLFBekXQOBZRKTC,4
-https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh,MAMI,6JjSoJ2laV4ZbKNb9nybvh,3,FALSE,126.022,247896,68,0.0308,0.758,0.944,0.103,0.0438,-4.901,0.0623,0.826,spotify:track:6JjSoJ2laV4ZbKNb9nybvh,4
-https://open.spotify.com/track/2LjVKREXkeZWUo7QIyWx2r,You,2LjVKREXkeZWUo7QIyWx2r,4,FALSE,126.004,401073,22,0.000523,0.665,0.763,0.811,0.0641,-7.685,0.0624,0.27,spotify:track:2LjVKREXkeZWUo7QIyWx2r,4
-https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD,A Drug From God,4skbQNtyjy8A7mo8oqe2oD,9,TRUE,126.016,192455,59,0.00819,0.714,0.883,0.843,0.231,-4.43,0.0625,0.819,spotify:track:4skbQNtyjy8A7mo8oqe2oD,4
-https://open.spotify.com/track/4EeeRPXUAUQHkBxu3g1LxT,Missing You,4EeeRPXUAUQHkBxu3g1LxT,0,FALSE,126.023,207265,66,0.00301,0.675,0.811,0.0413,0.126,-6.966,0.0629,0.271,spotify:track:4EeeRPXUAUQHkBxu3g1LxT,4
-https://open.spotify.com/track/0TyXT3d0BrpXKzl1n1ZQfa,Turn This Love Around,0TyXT3d0BrpXKzl1n1ZQfa,1,TRUE,129.979,322400,14,0.152,0.648,0.848,0.147,0.0359,-7.465,0.063,0.683,spotify:track:0TyXT3d0BrpXKzl1n1ZQfa,4
-https://open.spotify.com/track/174atMbJv8WBa3Ehf2F2m8,Dancing With The Devil,174atMbJv8WBa3Ehf2F2m8,9,TRUE,126.003,323809,13,0.00027,0.806,0.794,0.81,0.0507,-9.495,0.0633,0.591,spotify:track:174atMbJv8WBa3Ehf2F2m8,4
-https://open.spotify.com/track/4CbEP5CJiJsC3KE7Ssaorw,Predator - Original Mix,4CbEP5CJiJsC3KE7Ssaorw,10,FALSE,128.004,412617,40,0.00103,0.703,0.83,0.858,0.098,-7.624,0.0634,0.0353,spotify:track:4CbEP5CJiJsC3KE7Ssaorw,4
-https://open.spotify.com/track/5KjJwzGfQtJd1VkBR7kIPI,Low On Cyan - Eli Brown Remix,5KjJwzGfQtJd1VkBR7kIPI,0,FALSE,125.987,335604,9,0.0182,0.787,0.87,0.508,0.0367,-7.838,0.0638,0.612,spotify:track:5KjJwzGfQtJd1VkBR7kIPI,4
-https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn,The One,1HEAdiEtqfNwRiWLBflKgn,10,TRUE,131.069,301838,50,0.000603,0.725,0.806,0.732,0.0574,-7.228,0.0638,0.574,spotify:track:1HEAdiEtqfNwRiWLBflKgn,4
-https://open.spotify.com/track/0FzqS9TaYAKwhjdIXfphtd,Once Again,0FzqS9TaYAKwhjdIXfphtd,5,FALSE,126.033,160014,64,0.00446,0.725,0.883,0.761,0.248,-4.819,0.0642,0.0809,spotify:track:0FzqS9TaYAKwhjdIXfphtd,4
-https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB,Sete,4u3XiAwJ2U9Kxgy57gcAPB,6,FALSE,125.008,209760,68,0.0199,0.736,0.827,0.00828,0.351,-3.902,0.0643,0.814,spotify:track:4u3XiAwJ2U9Kxgy57gcAPB,4
-https://open.spotify.com/track/2zWyV9CIpfaH6v0g1mq1a0,alone with you (feat. Didi Han),2zWyV9CIpfaH6v0g1mq1a0,8,FALSE,126.531,210607,39,0.148,0.82,0.765,0.0293,0.0475,-6.294,0.0644,0.679,spotify:track:2zWyV9CIpfaH6v0g1mq1a0,4
-https://open.spotify.com/track/2Ene2KtroHMwyI4oxwEbl9,Eco,2Ene2KtroHMwyI4oxwEbl9,9,FALSE,125,332068,41,0.00124,0.697,0.577,0.346,0.114,-9.865,0.0652,0.276,spotify:track:2Ene2KtroHMwyI4oxwEbl9,4
-https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq,Blue Monday,6hHc7Pks7wtBIW8Z6A0iFq,0,TRUE,130.395,449160,75,0.00198,0.762,0.651,0.856,0.111,-13.34,0.0655,0.941,spotify:track:6hHc7Pks7wtBIW8Z6A0iFq,4
-https://open.spotify.com/track/2xg8KF2BrxW70v13Twxw6J,Weekend - East & Young Remix,2xg8KF2BrxW70v13Twxw6J,0,TRUE,126.034,251564,23,0.01,0.834,0.674,0.000034,0.0555,-4.476,0.0659,0.316,spotify:track:2xg8KF2BrxW70v13Twxw6J,4
-https://open.spotify.com/track/3ZeOpwxNPSVikqybFTA8z4,Atira A Flecha - Club mix,3ZeOpwxNPSVikqybFTA8z4,11,FALSE,125.977,365714,15,0.00488,0.846,0.875,0.373,0.0314,-7.512,0.0665,0.934,spotify:track:3ZeOpwxNPSVikqybFTA8z4,4
-https://open.spotify.com/track/1o3vJMVij4WBO70EjHdl8X,Never Looking Down,1o3vJMVij4WBO70EjHdl8X,11,FALSE,127.02,383774,8,0.00155,0.848,0.688,0.802,0.0946,-7.996,0.0668,0.36,spotify:track:1o3vJMVij4WBO70EjHdl8X,4
-https://open.spotify.com/track/53YYzXe4shE5FF13XBrhGz,Midnight City - Eric Prydz Private Remix,53YYzXe4shE5FF13XBrhGz,11,FALSE,125.009,357241,50,0.00087,0.534,0.849,0.508,0.552,-7.415,0.0678,0.398,spotify:track:53YYzXe4shE5FF13XBrhGz,4
-https://open.spotify.com/track/6n0ZvJoEEoGPeJc6lPGsZ7,The Job,6n0ZvJoEEoGPeJc6lPGsZ7,11,TRUE,125.003,253693,33,0.00959,0.827,0.794,0.812,0.0612,-7.289,0.0692,0.447,spotify:track:6n0ZvJoEEoGPeJc6lPGsZ7,4
-https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G,Billie (Loving Arms),46E2xeKBLrxS8hJ37Gq35G,5,TRUE,128.072,217265,70,0.0561,0.648,0.775,0,0.444,-4.798,0.0694,0.371,spotify:track:46E2xeKBLrxS8hJ37Gq35G,4
-https://open.spotify.com/track/36B9zvERwdBR7ZtGDAqibg,KLK,36B9zvERwdBR7ZtGDAqibg,7,TRUE,125.975,190714,46,0.051,0.679,0.995,0.00208,0.645,-5.33,0.0696,0.571,spotify:track:36B9zvERwdBR7ZtGDAqibg,4
-https://open.spotify.com/track/6LbHtTZwzYDWELlXi872yS,Welcome Back Home (feat. MC Ambush),6LbHtTZwzYDWELlXi872yS,9,FALSE,127.93,192187,35,0.0435,0.628,0.927,0.000617,0.342,-4.427,0.0707,0.254,spotify:track:6LbHtTZwzYDWELlXi872yS,4
-https://open.spotify.com/track/7KCXA4Y1gIGDSm388m9bW1,Keeping Your Head Up - Don Diablo Remix; Radio Edit,7KCXA4Y1gIGDSm388m9bW1,11,TRUE,126.084,207145,51,0.46,0.639,0.931,0,0.0942,-1.73,0.0708,0.471,spotify:track:7KCXA4Y1gIGDSm388m9bW1,4
-https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq,BUBBLEGUM,3VQWkf0zg6397V3ql6mwMq,6,FALSE,126.026,148538,56,0.00117,0.838,0.803,0.152,0.04,-5.583,0.0713,0.577,spotify:track:3VQWkf0zg6397V3ql6mwMq,4
-https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW,Talkin' Drums,5qJm4xvRCOQ1zedunDnndW,11,FALSE,126.069,180952,48,0.00791,0.818,0.748,0.00775,0.207,-6.678,0.0717,0.472,spotify:track:5qJm4xvRCOQ1zedunDnndW,4
-https://open.spotify.com/track/3UFh4oiI9cr4jkOZ9tYR5P,Beam,3UFh4oiI9cr4jkOZ9tYR5P,2,FALSE,125.935,260952,14,0.665,0.644,0.864,0.754,0.109,-4.488,0.0722,0.188,spotify:track:3UFh4oiI9cr4jkOZ9tYR5P,4
-https://open.spotify.com/track/4segPIHtcfXxvut82Ad6t7,Beam,4segPIHtcfXxvut82Ad6t7,2,FALSE,125.943,260952,0,0.666,0.644,0.864,0.743,0.109,-4.487,0.0724,0.182,spotify:track:4segPIHtcfXxvut82Ad6t7,4
-https://open.spotify.com/track/1NPf2VoOaZ45NCYhVqn9L0,Stay Inside (feat. Liv.e),1NPf2VoOaZ45NCYhVqn9L0,9,FALSE,125.025,232120,50,0.000163,0.81,0.489,0.21,0.111,-9.703,0.0727,0.73,spotify:track:1NPf2VoOaZ45NCYhVqn9L0,4
-https://open.spotify.com/track/23Z22W5EZCwMdOdsqNKyhG,Hot Box,23Z22W5EZCwMdOdsqNKyhG,6,FALSE,127.995,330281,35,0.00955,0.834,0.832,0.883,0.0722,-6.879,0.0727,0.365,spotify:track:23Z22W5EZCwMdOdsqNKyhG,4
-https://open.spotify.com/track/23nARgmwUKhb4yub5Y0NtA,Lose My Mind ( Remastered,23nARgmwUKhb4yub5Y0NtA,9,TRUE,125,309919,4,0.00521,0.839,0.988,0.899,0.184,-4.407,0.0737,0.709,spotify:track:23nARgmwUKhb4yub5Y0NtA,4
-https://open.spotify.com/track/2BWibsJ4b4tOFXFtSgIvwD,Loose My Mind,2BWibsJ4b4tOFXFtSgIvwD,9,TRUE,125.001,309919,14,0.00521,0.839,0.988,0.9,0.184,-4.407,0.0739,0.709,spotify:track:2BWibsJ4b4tOFXFtSgIvwD,4
-https://open.spotify.com/track/5cLaBI9yBgzcxSf950CcW7,Free,5cLaBI9yBgzcxSf950CcW7,9,TRUE,125.018,237023,54,0.00207,0.704,0.936,0.00026,0.218,-3.99,0.0745,0.357,spotify:track:5cLaBI9yBgzcxSf950CcW7,4
-https://open.spotify.com/track/0WiLUVSO3YLxDaoae5B7fo,Carry On - Cat Dealers Remix,0WiLUVSO3YLxDaoae5B7fo,0,TRUE,125.992,198095,29,0.00102,0.599,0.912,0.000268,0.344,-6.851,0.0746,0.553,spotify:track:0WiLUVSO3YLxDaoae5B7fo,4
-https://open.spotify.com/track/59RSrxkSKSixEWBAIvE5Wa,Starships,59RSrxkSKSixEWBAIvE5Wa,11,FALSE,125.006,210626,65,0.135,0.747,0.716,0,0.251,-2.457,0.0751,0.751,spotify:track:59RSrxkSKSixEWBAIvE5Wa,4
-https://open.spotify.com/track/7dsImih2L25fa6qjNphBI7,Turn off the Lights,7dsImih2L25fa6qjNphBI7,11,FALSE,125.013,210546,70,0.0467,0.824,0.745,0.0000329,0.198,-5.49,0.0755,0.888,spotify:track:7dsImih2L25fa6qjNphBI7,4
-https://open.spotify.com/track/29vo9RUjxgZWXWGTpD8f4m,Turn off the Lights (feat. Alexis Roberts),29vo9RUjxgZWXWGTpD8f4m,11,FALSE,125.013,210546,0,0.0467,0.824,0.745,0.0000329,0.198,-5.49,0.0755,0.888,spotify:track:29vo9RUjxgZWXWGTpD8f4m,4
-https://open.spotify.com/track/58FDNEheGy0rsZskL7dyMm,Sun In Our Eyes,58FDNEheGy0rsZskL7dyMm,4,FALSE,125.896,217932,52,0.0387,0.757,0.825,0.0025,0.651,-3.297,0.076,0.413,spotify:track:58FDNEheGy0rsZskL7dyMm,4
-https://open.spotify.com/track/77sxAECGDQdMvNa82MVHGt,1F2F,77sxAECGDQdMvNa82MVHGt,11,FALSE,125.018,175078,47,0.00134,0.916,0.854,0.0704,0.0537,-6.674,0.0783,0.734,spotify:track:77sxAECGDQdMvNa82MVHGt,4
-https://open.spotify.com/track/4GUxUmge58qGkX81nD2RRe,All In One Night,4GUxUmge58qGkX81nD2RRe,6,TRUE,126.049,187619,35,0.000837,0.613,0.97,0.0508,0.327,-4.763,0.0787,0.55,spotify:track:4GUxUmge58qGkX81nD2RRe,4
-https://open.spotify.com/track/2JgbGCxtzRp6wL5H1DgxV7,Fellow Feeling,2JgbGCxtzRp6wL5H1DgxV7,8,FALSE,128.124,350173,45,0.0968,0.312,0.545,0.093,0.277,-5.336,0.0796,0.114,spotify:track:2JgbGCxtzRp6wL5H1DgxV7,3
-https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL,So Much In Love,7DnI3ktF2vcmzKuCCKseQL,2,TRUE,131.93,178453,76,0.0723,0.535,0.954,0.000819,0.213,-4.347,0.0802,0.0396,spotify:track:7DnI3ktF2vcmzKuCCKseQL,4
-https://open.spotify.com/track/5OKuigqDZttO0FSkKVF3tB,Fruit Punch,5OKuigqDZttO0FSkKVF3tB,9,TRUE,127.027,170375,44,0.182,0.68,0.488,0.0218,0.2,-9.4,0.0806,0.289,spotify:track:5OKuigqDZttO0FSkKVF3tB,4
-https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA,Alright,4bao9qwqgkBdCuNmKehrOA,0,TRUE,130.971,295230,50,0.104,0.805,0.844,0.00104,0.0767,-5.354,0.0836,0.545,spotify:track:4bao9qwqgkBdCuNmKehrOA,4
-https://open.spotify.com/track/6DR6v2joJOH33K6ZPxsvEU,Nothing You Can Do,6DR6v2joJOH33K6ZPxsvEU,2,TRUE,128.01,315500,35,0.00254,0.638,0.727,0.0000275,0.115,-7.8,0.0844,0.464,spotify:track:6DR6v2joJOH33K6ZPxsvEU,4
-https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR,Angie (Iâ€™ve Been Lost) [feat. Angie McMahon],24CoUR3GwPXeWJzGizLzhR,11,TRUE,131.97,285093,62,0.14,0.72,0.888,0.23,0.0806,-9.254,0.0847,0.378,spotify:track:24CoUR3GwPXeWJzGizLzhR,4
-https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk,Sun Phase,1yfUYv5TOkuFbePQubZlEk,2,TRUE,129.016,316454,50,0.104,0.727,0.942,0.619,0.102,-5.95,0.0861,0.135,spotify:track:1yfUYv5TOkuFbePQubZlEk,4
-https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i,FTLOG,2KirxdpyaTzzgVEcnq1u1i,8,TRUE,125.993,247869,39,0.679,0.818,0.566,0.898,0.0802,-12.017,0.0866,0.187,spotify:track:2KirxdpyaTzzgVEcnq1u1i,4
-https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv,Danielle (Smile on My Face),2sLVs5iX0osogh4jcsAJkv,5,TRUE,130.021,201230,68,0.00159,0.678,0.931,0.0275,0.091,-5.813,0.0867,0.346,spotify:track:2sLVs5iX0osogh4jcsAJkv,4
-https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3,Raw - Tony Romera Remix,7lxbCUxQXJRkPQ1eErYZd3,0,TRUE,128.005,217500,60,0.392,0.865,0.967,0.877,0.353,-5.03,0.087,0.163,spotify:track:7lxbCUxQXJRkPQ1eErYZd3,4
-https://open.spotify.com/track/5ybydtBlJJL82AprlvN7Lg,Magnets - A-Trak Remix,5ybydtBlJJL82AprlvN7Lg,10,FALSE,125.019,260442,0,0.0578,0.618,0.82,0.000171,0.131,-5.7,0.0871,0.56,spotify:track:5ybydtBlJJL82AprlvN7Lg,4
-https://open.spotify.com/track/00QA6kDTxsghd5vukZfxeE,First Night Out,00QA6kDTxsghd5vukZfxeE,7,TRUE,128.976,233600,18,0.000895,0.713,0.977,0.0711,0.111,-6.165,0.088,0.311,spotify:track:00QA6kDTxsghd5vukZfxeE,4
-https://open.spotify.com/track/66WnR5Qn3EPZTyBI9pqwlz,In My Mind - Axwell Mix,66WnR5Qn3EPZTyBI9pqwlz,7,FALSE,127.99,400741,48,0.0396,0.668,0.896,0.00215,0.293,-5.188,0.0883,0.301,spotify:track:66WnR5Qn3EPZTyBI9pqwlz,4
-https://open.spotify.com/track/4S7J46CLuda7ayjLc2dL9v,In My Mind (feat. Georgi Kay) - Axwell Remix,4S7J46CLuda7ayjLc2dL9v,7,FALSE,127.997,399789,0,0.0393,0.668,0.896,0.00223,0.298,-5.188,0.0886,0.302,spotify:track:4S7J46CLuda7ayjLc2dL9v,4
-https://open.spotify.com/track/6UMds0e3TmqgosR2ERaseA,Freak (feat. Steve Bays),6UMds0e3TmqgosR2ERaseA,6,TRUE,127.948,281250,0,0.00538,0.661,0.957,0.132,0.0622,-3.486,0.0898,0.263,spotify:track:6UMds0e3TmqgosR2ERaseA,4
-https://open.spotify.com/track/0GATmBanwPiHQBfl2mDq3o,Freak (feat. Steve Bays),0GATmBanwPiHQBfl2mDq3o,6,TRUE,127.948,281250,49,0.00538,0.661,0.957,0.132,0.0622,-3.486,0.0898,0.263,spotify:track:0GATmBanwPiHQBfl2mDq3o,4
-https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL,Do You Miss Me?,67r7ZHxVxONN9ZQk05AQVL,11,FALSE,129.928,128853,65,0.0976,0.647,0.871,0.000534,0.173,-7.144,0.0936,0.643,spotify:track:67r7ZHxVxONN9ZQk05AQVL,4
-https://open.spotify.com/track/3yd8ahe0iux1u6LyUWp26v,REACHUPDONTSTOP,3yd8ahe0iux1u6LyUWp26v,11,FALSE,127.987,240280,33,0.0419,0.702,0.807,0.451,0.0853,-6.824,0.0953,0.524,spotify:track:3yd8ahe0iux1u6LyUWp26v,4
-https://open.spotify.com/track/2KXBudx02amF6yzAyVHjWt,Discipline,2KXBudx02amF6yzAyVHjWt,10,FALSE,129.083,292973,24,0.0146,0.674,0.736,0.00177,0.125,-5.678,0.0964,0.301,spotify:track:2KXBudx02amF6yzAyVHjWt,4
-https://open.spotify.com/track/6TMNGEBHP4txFegPiXVl7b,Disco Loop Tool (I Do),6TMNGEBHP4txFegPiXVl7b,0,TRUE,127.01,293281,2,0.00713,0.853,0.571,0.226,0.0511,-6.719,0.0997,0.423,spotify:track:6TMNGEBHP4txFegPiXVl7b,4
-https://open.spotify.com/track/0NFchYXJVNxHb693dpIs0t,Work,0NFchYXJVNxHb693dpIs0t,11,FALSE,127.994,217500,59,0.00163,0.853,0.948,0.0341,0.252,-5.671,0.1,0.38,spotify:track:0NFchYXJVNxHb693dpIs0t,4
-https://open.spotify.com/track/6ytVMBHu1ZXvaBvufHCBOX,Bon Bini,6ytVMBHu1ZXvaBvufHCBOX,9,TRUE,127.028,361023,38,0.00256,0.775,0.877,0.25,0.0738,-9.12,0.103,0.401,spotify:track:6ytVMBHu1ZXvaBvufHCBOX,4
-https://open.spotify.com/track/2ZpfU0Oe6gINVzAvwXLLs4,Mushroom,2ZpfU0Oe6gINVzAvwXLLs4,10,FALSE,131.045,223466,0,0.218,0.754,0.417,0,0.116,-10.261,0.103,0.59,spotify:track:2ZpfU0Oe6gINVzAvwXLLs4,4
-https://open.spotify.com/track/4oQ9rJSSfyWDs9AgzO0her,Mushroom,4oQ9rJSSfyWDs9AgzO0her,10,FALSE,131.045,223466,29,0.218,0.754,0.417,0,0.116,-10.261,0.103,0.59,spotify:track:4oQ9rJSSfyWDs9AgzO0her,4
-https://open.spotify.com/track/1dopTw8QmbMWBCWvG3dbaf,Dome,1dopTw8QmbMWBCWvG3dbaf,4,FALSE,126.007,229523,14,0.000431,0.788,0.895,0.714,0.324,-6.16,0.107,0.55,spotify:track:1dopTw8QmbMWBCWvG3dbaf,4
-https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb,Disconnected,3MK2rvp7XjarzRKFrPGMOb,2,TRUE,125.995,194523,62,0.00579,0.842,0.811,0.176,0.0702,-6.476,0.109,0.594,spotify:track:3MK2rvp7XjarzRKFrPGMOb,4
-https://open.spotify.com/track/4JrrdViTHZzsIw9mxEBmRj,The Dark (Trinity),4JrrdViTHZzsIw9mxEBmRj,9,FALSE,130.016,317133,0,0.2,0.789,0.621,0,0.0912,-7.703,0.109,0.263,spotify:track:4JrrdViTHZzsIw9mxEBmRj,4
-https://open.spotify.com/track/4cVzPbPsYsfQD5JLszLoV6,Move,4cVzPbPsYsfQD5JLszLoV6,5,TRUE,129.994,188307,40,0.722,0.71,0.364,0.0108,0.102,-13.974,0.113,0.222,spotify:track:4cVzPbPsYsfQD5JLszLoV6,4
-https://open.spotify.com/track/37uKv6hQtfYfNZAU3YWzyN,Dome,37uKv6hQtfYfNZAU3YWzyN,0,TRUE,126.013,229523,0,0.000473,0.779,0.895,0.618,0.211,-6.249,0.113,0.565,spotify:track:37uKv6hQtfYfNZAU3YWzyN,4
-https://open.spotify.com/track/24DpFKHenb2ZnPU7ly5UgT,SuperMelt,24DpFKHenb2ZnPU7ly5UgT,5,FALSE,129.985,281027,40,0.0189,0.802,0.911,0.0182,0.072,-5.277,0.114,0.329,spotify:track:24DpFKHenb2ZnPU7ly5UgT,4
-https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh,Opal - Four Tet Remix,3VtTuQ6lypMoOBcm6VMzdh,9,FALSE,127.011,494256,61,0.103,0.826,0.72,0.773,0.11,-9.582,0.119,0.287,spotify:track:3VtTuQ6lypMoOBcm6VMzdh,4
-https://open.spotify.com/track/18rDGEpDdyCaxqFrvjc4yv,Boy Oh Boy,18rDGEpDdyCaxqFrvjc4yv,1,FALSE,129.956,174398,0,0.00224,0.539,0.954,0.835,0.0623,-3.054,0.12,0.389,spotify:track:18rDGEpDdyCaxqFrvjc4yv,4
-https://open.spotify.com/track/20c8kwM60klIrU9LIYNv0X,Boy Oh Boy,20c8kwM60klIrU9LIYNv0X,1,FALSE,129.956,174398,59,0.00224,0.539,0.954,0.835,0.0623,-3.054,0.12,0.389,spotify:track:20c8kwM60klIrU9LIYNv0X,4
-https://open.spotify.com/track/7eVAueNTldeMplUKSlOKs9,Voy,7eVAueNTldeMplUKSlOKs9,6,FALSE,126.014,185773,55,0.0116,0.762,0.888,0.47,0.213,-4.538,0.122,0.322,spotify:track:7eVAueNTldeMplUKSlOKs9,4
-https://open.spotify.com/track/4Rc7iS5uJe9bpJfjp5BZta,Run to the Forest,4Rc7iS5uJe9bpJfjp5BZta,0,TRUE,125.984,203809,42,0.731,0.665,0.764,0.00063,0.0759,-8.273,0.125,0.39,spotify:track:4Rc7iS5uJe9bpJfjp5BZta,4
-https://open.spotify.com/track/1nJwqD7S0yVMNWrjzyUBV8,Yefja,1nJwqD7S0yVMNWrjzyUBV8,0,TRUE,126.019,427749,32,0.124,0.841,0.704,0.866,0.0855,-7.144,0.13,0.374,spotify:track:1nJwqD7S0yVMNWrjzyUBV8,4
-https://open.spotify.com/track/7yJzk64ul9PFgVFUYbEzZL,Jungle Bae (feat. Bunji Garlin & MX Prime),7yJzk64ul9PFgVFUYbEzZL,2,TRUE,127.975,208125,53,0.0304,0.744,0.997,0.00256,0.0737,-1.325,0.13,0.558,spotify:track:7yJzk64ul9PFgVFUYbEzZL,4
-https://open.spotify.com/track/6xKPcEckg4wK4mmkmP4hbf,17 (Solardo Remix) [Radio Edit],6xKPcEckg4wK4mmkmP4hbf,7,FALSE,126.099,216639,14,0.00123,0.883,0.778,0.778,0.196,-7.728,0.131,0.603,spotify:track:6xKPcEckg4wK4mmkmP4hbf,4
-https://open.spotify.com/track/19dObDGedr40x1UcAm15qz,Butterflies,19dObDGedr40x1UcAm15qz,2,FALSE,128.007,195937,62,0.0239,0.733,0.872,0.00304,0.38,-5.683,0.132,0.195,spotify:track:19dObDGedr40x1UcAm15qz,4
-https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR,Smack Yo',2UdCQIDwFvGhslUYZH5tRR,7,TRUE,126.992,245669,66,0.00321,0.884,0.745,0.357,0.0921,-7.892,0.135,0.735,spotify:track:2UdCQIDwFvGhslUYZH5tRR,4
-https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P,Party Rock Anthem,0IkKz2J93C94Ei4BvDop7P,5,FALSE,129.993,262173,73,0.0189,0.75,0.727,0,0.266,-4.21,0.142,0.359,spotify:track:0IkKz2J93C94Ei4BvDop7P,4
-https://open.spotify.com/track/1Oc6sieJIKnw1Sy93Vp0Lq,Get Up Get Out,1Oc6sieJIKnw1Sy93Vp0Lq,11,TRUE,126.026,171710,39,0.00204,0.838,0.873,0.0329,0.113,-6.053,0.149,0.237,spotify:track:1Oc6sieJIKnw1Sy93Vp0Lq,4
-https://open.spotify.com/track/6U7DCvIA93YYzyFYwmiIIe,Mi Amor,6U7DCvIA93YYzyFYwmiIIe,8,FALSE,127.959,195952,66,0.0187,0.824,0.511,0.834,0.309,-9.049,0.151,0.0858,spotify:track:6U7DCvIA93YYzyFYwmiIIe,4
-https://open.spotify.com/track/1UN9ZVrKgwGt6aNYRs5Ytg,Mono Tono - Club Mix Radio Edit,1UN9ZVrKgwGt6aNYRs5Ytg,8,TRUE,125.015,165126,20,0.0214,0.867,0.869,0.00947,0.286,-7.987,0.155,0.752,spotify:track:1UN9ZVrKgwGt6aNYRs5Ytg,4
-https://open.spotify.com/track/7mitXLIMCflkhZiD34uEQI,Party Rock Anthem,7mitXLIMCflkhZiD34uEQI,5,FALSE,130.014,262146,77,0.0206,0.751,0.736,0,0.265,-4.168,0.156,0.352,spotify:track:7mitXLIMCflkhZiD34uEQI,4
-https://open.spotify.com/track/6rQvzFs8pR9ZjmY5OTF4kO,This Is House,6rQvzFs8pR9ZjmY5OTF4kO,2,FALSE,125.03,183910,36,0.014,0.848,0.871,0.065,0.377,-4.005,0.159,0.299,spotify:track:6rQvzFs8pR9ZjmY5OTF4kO,4
-https://open.spotify.com/track/7lhNCZG9JWxhoJSGkJa2AS,Could Heaven Ever Be Like This - Walker & Royce and Chris Lorenzo Remix,7lhNCZG9JWxhoJSGkJa2AS,9,FALSE,127.089,221202,61,0.0252,0.803,0.881,0.0223,0.205,-6.482,0.163,0.387,spotify:track:7lhNCZG9JWxhoJSGkJa2AS,4
-https://open.spotify.com/track/0Uhq3zZPBoHXFtGaZmhYqg,Alone - Original Mix,0Uhq3zZPBoHXFtGaZmhYqg,7,TRUE,130.002,411505,34,0.0146,0.725,0.77,0.563,0.12,-7.421,0.164,0.14,spotify:track:0Uhq3zZPBoHXFtGaZmhYqg,4
-https://open.spotify.com/track/0Veo13Yqvdzd5zw83Lsdcr,Too Original,0Veo13Yqvdzd5zw83Lsdcr,0,TRUE,128.014,207395,0,0.0458,0.685,0.944,0.00000939,0.822,-3.038,0.166,0.532,spotify:track:0Veo13Yqvdzd5zw83Lsdcr,4
-https://open.spotify.com/track/0nb3rHI96wtfflIOBczsbc,Woah,0nb3rHI96wtfflIOBczsbc,7,TRUE,127.953,236041,32,0.00219,0.755,0.53,0.713,0.0919,-10.081,0.167,0.555,spotify:track:0nb3rHI96wtfflIOBczsbc,4
-https://open.spotify.com/track/6JyNpOts7liOCjEdqeu2h6,Big Hen (Steal My Joy),6JyNpOts7liOCjEdqeu2h6,4,TRUE,130.656,263196,54,0.266,0.529,0.639,0.00794,0.395,-7.52,0.17,0.385,spotify:track:6JyNpOts7liOCjEdqeu2h6,4
-https://open.spotify.com/track/6a8LfgC5aAaHNhsQcGQY1r,Antibodies - LP Giobbi Remix,6a8LfgC5aAaHNhsQcGQY1r,3,TRUE,125.028,312226,66,0.175,0.61,0.765,0.00000105,0.0914,-4.914,0.172,0.243,spotify:track:6a8LfgC5aAaHNhsQcGQY1r,4
-https://open.spotify.com/track/3ddJUAVAo7b1AnNWi7jtZX,Rise Again,3ddJUAVAo7b1AnNWi7jtZX,1,TRUE,125.962,183112,49,0.0111,0.778,0.942,0.177,0.342,-4.239,0.174,0.851,spotify:track:3ddJUAVAo7b1AnNWi7jtZX,4
-https://open.spotify.com/track/3VlZSJOZpw5WbLbctHD43T,Howâ€™d You Go out Like That,3VlZSJOZpw5WbLbctHD43T,1,TRUE,126.999,162519,43,0.419,0.661,0.753,0.00484,0.0834,-7.599,0.188,0.543,spotify:track:3VlZSJOZpw5WbLbctHD43T,4
-https://open.spotify.com/track/3YlUuMG4Guve8SxlxYqJ2W,Jennifer,3YlUuMG4Guve8SxlxYqJ2W,10,FALSE,130.095,154563,0,0.0762,0.691,0.916,0.0752,0.289,-5.647,0.192,0.532,spotify:track:3YlUuMG4Guve8SxlxYqJ2W,4
-https://open.spotify.com/track/3uXHSf9sSIpOJWuC1H8DiU,Talk - Disclosure VIP,3uXHSf9sSIpOJWuC1H8DiU,4,FALSE,128.956,273229,47,0.0158,0.775,0.867,0.0117,0.0355,-7.388,0.204,0.565,spotify:track:3uXHSf9sSIpOJWuC1H8DiU,4
-https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0,()vÈ¯)) Ì·Ì¨Ê…(ÛÊ…(ÆŸÊ…():::()ÌµÌ³Ì—ÌŠ(ÆŸÊ…()vÈ¯)) Ì·Ì¨Ê…,55meeb1WffJW16DfMnWVi0,1,TRUE,129.028,271642,50,0.0127,0.852,0.93,0.494,0.0573,-7.02,0.209,0.236,spotify:track:55meeb1WffJW16DfMnWVi0,4
-https://open.spotify.com/track/6cKvyvg3sMnyZZsi8tgXMP,Dominator - RebÅ«ke Remix,6cKvyvg3sMnyZZsi8tgXMP,7,TRUE,130.041,239515,32,0.0728,0.686,0.932,0.0294,0.16,-4.828,0.21,0.282,spotify:track:6cKvyvg3sMnyZZsi8tgXMP,4
-https://open.spotify.com/track/521n5wagIZ1522mA2ynHDL,Tate (How I Feel),521n5wagIZ1522mA2ynHDL,0,TRUE,125.197,222250,65,0.163,0.781,0.765,0.00112,0.903,-8.228,0.221,0.64,spotify:track:521n5wagIZ1522mA2ynHDL,4
-https://open.spotify.com/track/0wPfUQUkWcguy2iUH0BWOT,Baby,0wPfUQUkWcguy2iUH0BWOT,0,TRUE,127.066,264464,54,0.487,0.792,0.576,0.00325,0.0972,-9.947,0.248,0.053,spotify:track:0wPfUQUkWcguy2iUH0BWOT,4
-https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0,Deep (with DJ Snake & Yung Felix),0hSdx0sbSmYRVJzZTuspu0,9,FALSE,128.005,213984,50,0.0179,0.954,0.791,0.0000292,0.29,-5.717,0.26,0.493,spotify:track:0hSdx0sbSmYRVJzZTuspu0,4
-https://open.spotify.com/track/2NAZcL9tLUkdMMb5v3xFVG,BlasÃ© (feat. Future & Rae Sremmurd) - Louis the Child Remix,2NAZcL9tLUkdMMb5v3xFVG,7,FALSE,127.932,228750,62,0.505,0.615,0.523,0.00000429,0.11,-4.246,0.267,0.693,spotify:track:2NAZcL9tLUkdMMb5v3xFVG,4
-https://open.spotify.com/track/5vPNXc2vMhiDFyYoL9yoWc,Discipline - Louis the Child Remix,5vPNXc2vMhiDFyYoL9yoWc,1,TRUE,128.981,211933,33,0.217,0.757,0.535,0.00000751,0.339,-4.456,0.27,0.389,spotify:track:5vPNXc2vMhiDFyYoL9yoWc,4
-https://open.spotify.com/track/1As4KC3YYpu89aBt7EqL2m,Call on Me,1As4KC3YYpu89aBt7EqL2m,8,FALSE,126.32,454440,60,0.00212,0.643,0.793,0.103,0.458,-8.944,0.326,0.198,spotify:track:1As4KC3YYpu89aBt7EqL2m,4
-https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd,079,1ULaCASWLNrzg76Jt3VDWd,1,TRUE,125.061,168200,56,0.0104,0.806,0.7,0.0389,0.12,-7.253,0.339,0.594,spotify:track:1ULaCASWLNrzg76Jt3VDWd,4
-https://open.spotify.com/track/4h8db5gKkERqYheXHYjpU4,Bright Star - Sunset Mix,4h8db5gKkERqYheXHYjpU4,5,FALSE,125.027,427680,40,0.278,0.967,0.286,0.256,0.0872,-13.419,0.349,0.745,spotify:track:4h8db5gKkERqYheXHYjpU4,4
-https://open.spotify.com/track/7HQBpx4quUib53O5LRtnBB,LEFT TO RIGHT - Extended Mix,7HQBpx4quUib53O5LRtnBB,8,TRUE,127.982,270000,1,0.107,0.664,0.772,0.816,0.0821,-5.798,0.356,0.189,spotify:track:7HQBpx4quUib53O5LRtnBB,4
-https://open.spotify.com/track/1Ysc1uDZtf430TGavoS1j4,Professional Rapper (feat. Snoop Dogg),1Ysc1uDZtf430TGavoS1j4,11,FALSE,128.906,353959,0,0.433,0.685,0.621,0,0.607,-8.442,0.361,0.538,spotify:track:1Ysc1uDZtf430TGavoS1j4,3
-https://open.spotify.com/track/7xhbxuD435LEzoQpfHtNSl,Down & Dirty,7xhbxuD435LEzoQpfHtNSl,7,TRUE,130.288,298000,4,0.114,0.622,0.594,0,0.554,-12.92,0.399,0.827,spotify:track:7xhbxuD435LEzoQpfHtNSl,4
+7ygZMvmeGntR1bYd7AUnTG
+7yJzk64ul9PFgVFUYbEzZL
+7xhbxuD435LEzoQpfHtNSl
+7w87IxuO7BDcJ3YUqCyMTT
+7vaL7BD7kwQUZV6ES9psjC
+7sLnn2UOttrEPBZSFyIsYh
+7oPqRSubaWcDb5F68aw3P6
+7mitXLIMCflkhZiD34uEQI
+7lxbCUxQXJRkPQ1eErYZd3
+7lhNCZG9JWxhoJSGkJa2AS
+7keTmM7ztouZFvyCzCja7S
+7kAJWULoQUsWiiTJp2951Y
+7emyMM3g0FzmnD63w3TNoE
+7eVAueNTldeMplUKSlOKs9
+7dsImih2L25fa6qjNphBI7
+7dDLAQ1y0qOq3E4DhNh8FS
+7aRKKNCR5SJY1Gae601BMO
+7KCXA4Y1gIGDSm388m9bW1
+7HQBpx4quUib53O5LRtnBB
+7G7LODyELWUhyA9GoFwcWa
+7E2cLbyZ1TmSFpjr8F5aOw
+7DnI3ktF2vcmzKuCCKseQL
+77sxAECGDQdMvNa82MVHGt
+71QzpNzL1Q6KPOV5ilyBVW
+6ytVMBHu1ZXvaBvufHCBOX
+6xKPcEckg4wK4mmkmP4hbf
+6rQvzFs8pR9ZjmY5OTF4kO
+6rMDUHBXp1yYr3qftxfXG5
+6qEjvGlo4BjFdd3eM9RHOR
+6o4BO9LLCPe5p43YKZzFuv
+6nnuDhdxswKCMi9HLzYUId
+6nGhGBz7uaE1RngnIFRKep
+6n0ZvJoEEoGPeJc6lPGsZ7
+6joEpIEWpZYrezVvqrbvxy
+6jnw0Ej2zvqMI7iOGctTfP
+6hHc7Pks7wtBIW8Z6A0iFq
+6cKvyvg3sMnyZZsi8tgXMP
+6a8LfgC5aAaHNhsQcGQY1r
+6Xe9wT5xeZETPwtaP2ynUz
+6X6LIhmk6XVblq7meVQ4Kn
+6WLZljpPR8EiUT2LDubJ6T
+6UMds0e3TmqgosR2ERaseA
+6U7DCvIA93YYzyFYwmiIIe
+6TMNGEBHP4txFegPiXVl7b
+6SYH3khYd6Mum1cKf8sRux
+6RaaQvkGUe8Je8yAkdwQNm
+6OPf7G2HY8YRoCWHKy2CTy
+6LbHtTZwzYDWELlXi872yS
+6JyNpOts7liOCjEdqeu2h6
+6JtT4a0Z406dz7A2f2vGBe
+6JjSoJ2laV4ZbKNb9nybvh
+6GomT970rCOkKAyyrwJeZi
+6GAnWvSZHOFIIrAcESRh6a
+6EL95M2kQPDj6YfqOZxGgF
+6DR6v2joJOH33K6ZPxsvEU
+6CbhlWMEz2c7XVH8qosDkS
+6BUzs4g1OvThxUalMhL6b8
+6AGP3yzcdhntXx6MEyN91x
+67r7ZHxVxONN9ZQk05AQVL
+66WnR5Qn3EPZTyBI9pqwlz
+66KnxPOG7pEbzqyKhLaIE0
+5ybydtBlJJL82AprlvN7Lg
+5yN3wXc6fvM5SPTFjL6c4G
+5wKVFoSD7ppsjTvsniDGes
+5w22aDDwvWR0puSp6ZL6LJ
+5vPNXc2vMhiDFyYoL9yoWc
+5ukTUKLwsaThljUaV6IVAs
+5qJm4xvRCOQ1zedunDnndW
+5owacNcWuezb4JHoGdoQSj
+5oUV6yWdDM0R9Q2CizRhIt
+5o1mS67lEoLCeFobGIaNb2
+5noFr0H7xkDdpVa3jCdiDk
+5nWbbQ0sIEabqPxAdqmh66
+5lVPbg9XJzLHsjoYcrnEXf
+5e87VvQuL0zrevjwmYkjXe
+5cbpoIu3YjoOwbBDGUEp3P
+5cLaBI9yBgzcxSf950CcW7
+5a8I5duAd2jiGrmRHUZ185
+5XY2CyLE68jlt7nNj5ygVh
+5W5JeZwZxK3kN9U19nkqam
+5V4KHyB9UVSzTSmeCGUxn1
+5S8TSNkc2BpLpp76qPlN08
+5RoIXwyTCdyUjpMMkk4uPd
+5QjJgPU8AJeickx34f7on6
+5OKuigqDZttO0FSkKVF3tB
+5KjJwzGfQtJd1VkBR7kIPI
+5KGn7C4GflN0EFMNqDmUY9
+5FzuDFYmUFcvjraadJXv28
+5F84K2ltGbHKMYbmujjt8W
+5F55SiWwEEytk6vsQXHxQW
+5ECiRe4QNdVJy1GTDA1aaq
+5CE0k1VmTXgCtaa5L288LP
+59RSrxkSKSixEWBAIvE5Wa
+58aSEVveLPGAGoyzYNgUHt
+58FDNEheGy0rsZskL7dyMm
+57ou24UwjNCXY2umuGtoCf
+55meeb1WffJW16DfMnWVi0
+53YYzXe4shE5FF13XBrhGz
+521n5wagIZ1522mA2ynHDL
+50jVzXCidtxHYjQDiQzEjV
+4y5CHkxTCrgi5coGEAMfMc
+4u3XiAwJ2U9Kxgy57gcAPB
+4tVC4zLwxeqAS8rerZ2VaH
+4skbQNtyjy8A7mo8oqe2oD
+4segPIHtcfXxvut82Ad6t7
+4q2azQakSVVyqljRiCZtu3
+4oQ9rJSSfyWDs9AgzO0her
+4n8fxV2m3ESCoQgOaMrR2n
+4l2cybnuXksxxKzCCSDPfV
+4ho6jJU2nbX0NbiF33i4tX
+4hWhNL4cLfhLrt4Un3pdMG
+4h8db5gKkERqYheXHYjpU4
+4cVzPbPsYsfQD5JLszLoV6
+4cRARb9zkV4gk33KAl7cBI
+4bao9qwqgkBdCuNmKehrOA
+4Ynibk8PO978n4voJ1Uzby
+4VbDJMkAX3dWNBdn3KH6Wx
+4S7J46CLuda7ayjLc2dL9v
+4RdRa3qq0GBSKjomxrkh5K
+4Rc7iS5uJe9bpJfjp5BZta
+4OwMTUrschknwvALozCuoD
+4JrrdViTHZzsIw9mxEBmRj
+4JcTXkYVNPHlvrCoTNtIyh
+4GUxUmge58qGkX81nD2RRe
+4EeeRPXUAUQHkBxu3g1LxT
+4CbEP5CJiJsC3KE7Ssaorw
+4Bd1yNEOD5aX6NVU8eLlsa
+4BNYPLZUff4LyxLQlTYzbH
+4BDpHt1JrVQzaU7E6RBbXh
+47Y0rL0NmIstJxFgVWUqVA
+46E2xeKBLrxS8hJ37Gq35G
+3yd8ahe0iux1u6LyUWp26v
+3yIDV5XfbGMV7nps1KJ8o5
+3uXHSf9sSIpOJWuC1H8DiU
+3u8MPhC5MUkd8qPzxLoHQb
+3s4vo3MRq4u5ogEQYtydfT
+3oHOObxpYRdsRwVqizxWNM
+3nvIKK5SHFWmKGoaGVxxYu
+3nEHrvNNtgLv9rneTAYVr4
+3mfuJMGEw0iyazvK9PaqLQ
+3kN8TbvcpxNElCd29q1K46
+3jFnw3ndyhIOeWc3VzrMS4
+3gotUs36vZblqm50H5YOd7
+3eOZPj3ZLFBekXQOBZRKTC
+3ddJUAVAo7b1AnNWi7jtZX
+3ZeOpwxNPSVikqybFTA8z4
+3YlUuMG4Guve8SxlxYqJ2W
+3YXTc9txD7OwGdkVkaoj5F
+3VtTuQ6lypMoOBcm6VMzdh
+3VlZSJOZpw5WbLbctHD43T
+3VQWkf0zg6397V3ql6mwMq
+3UFh4oiI9cr4jkOZ9tYR5P
+3Qc4T3N0f3rbRl5h0RJr7b
+3MK2rvp7XjarzRKFrPGMOb
+3KYgsHPXp1pOywoYkUmh6k
+3HybwTm4C1n07gqg85f8qt
+3FIb81xI76x7pGPbFbzZXu
+3CrFr7JnfUHJYX5I49e9TV
+3CAX47TnPqTujLIQTw8nwI
+3BfLcQOyP6ovmQFTYfhIx4
+3BaOCVZmerePIy6fOdrU8R
+39pclaQXwUGiwcA47Hk3QF
+39fTOnYqGqM00A6xaIqtJn
+387t13BOBNfxBdKP7M1zVA
+37uKv6hQtfYfNZAU3YWzyN
+36B9zvERwdBR7ZtGDAqibg
+35bAjRIbS6LGuxCR9aP92T
+31NiyZrUd1r4icY7xkvnWv
+2zWyV9CIpfaH6v0g1mq1a0
+2xxKJgIpgiancRpSup5dHU
+2xg8KF2BrxW70v13Twxw6J
+2wynpXzuXf6Cvf2MqHYA9Z
+2tW2Kn1IGFFVfRVnQE2UaQ
+2sLVs5iX0osogh4jcsAJkv
+2o2LnWqiZ5PftYoROPdbE2
+2ndF5ctDJrYK3eJhRbp1jO
+2nHBfIdQ4ndFNaWilLdBUN
+2isZA3W8kLNBi0PC7ZHunG
+2iCkWaXZ4XcwvLDcN2bwnO
+2hhVlIZmGEGfNeVIYnMUAG
+2edB8M0PPZCoYKm8ohDaNm
+2caABDipxldhTNWvVMNh0U
+2ZpfU0Oe6gINVzAvwXLLs4
+2Yr00kd5y8LyjhDHvKR3CN
+2YDOjCfkGciEXxSutB6LJR
+2UdCQIDwFvGhslUYZH5tRR
+2Tl5fhF4itz5VeXHRVGIO5
+2TiScOosbsRqWWYHGorx1h
+2ST4u9GusI2ddDfuMvXA5l
+2PtssgaplWt6pf8x5AzyNi
+2NAZcL9tLUkdMMb5v3xFVG
+2LjVKREXkeZWUo7QIyWx2r
+2LBvrCD0wMCzJAhmE1muGM
+2KirxdpyaTzzgVEcnq1u1i
+2KXBudx02amF6yzAyVHjWt
+2JmvwF29iUVb3oEFW4Bvf3
+2JgbGCxtzRp6wL5H1DgxV7
+2G688ift9Wa5ZcgZEPKgNl
+2Ene2KtroHMwyI4oxwEbl9
+2C0KFbb4v9CNWR5c9jWcKC
+2BWibsJ4b4tOFXFtSgIvwD
+29vo9RUjxgZWXWGTpD8f4m
+24DpFKHenb2ZnPU7ly5UgT
+24CoUR3GwPXeWJzGizLzhR
+23nARgmwUKhb4yub5Y0NtA
+23Z22W5EZCwMdOdsqNKyhG
+22jhuLu3cINdlhIfmV7E0T
+222xHxHw2MXwNX2qRFO6cB
+20c8kwM60klIrU9LIYNv0X
+20E9dy0EgyhQLZL5JerHmb
+1yfUYv5TOkuFbePQubZlEk
+1vlnbR9iKNLCAlEDNSBrxj
+1vQ92830bxiBcIhpUj4qrn
+1vKVGg4sQDZW4eO7qLh6WM
+1sPXaNS4HwQl4BXlXMT4Hc
+1o3vJMVij4WBO70EjHdl8X
+1nz0SvhvjKHHX8NoSUeG3P
+1nJwqD7S0yVMNWrjzyUBV8
+1lE04bEDkNV9QSd2THlycs
+1iLU3hQxwqvCQW7v4wzLuF
+1hZCT7LgxK5KVyLUtJMDJW
+1hLym0uB07gKmm6GMjUBOR
+1dopTw8QmbMWBCWvG3dbaf
+1Ysc1uDZtf430TGavoS1j4
+1YLGtZjDKyY0Qkv4QlX31b
+1WtMzxphD9Kxywql3L8VRa
+1UN9ZVrKgwGt6aNYRs5Ytg
+1ULaCASWLNrzg76Jt3VDWd
+1QY1JdMErccck5JBqqI7tH
+1Oc6sieJIKnw1Sy93Vp0Lq
+1NPf2VoOaZ45NCYhVqn9L0
+1NCZMAnGrzUmpBzkBlJjNw
+1M8t1j3Kv2qp97bdq5q4Vl
+1Lgvs8WzpPbT5VuUFIAJwt
+1HEAdiEtqfNwRiWLBflKgn
+1DiehRsdyRxbz2UUSEADkZ
+1C64MJBqmR3kl32px5BX3r
+1As4KC3YYpu89aBt7EqL2m
+19dObDGedr40x1UcAm15qz
+18rDGEpDdyCaxqFrvjc4yv
+174atMbJv8WBa3Ehf2F2m8
+11IN4dNYE5HYeFsF3xzOIO
+0wPfUQUkWcguy2iUH0BWOT
+0usw4LN0l0sNpAX5tFcPJp
+0tlztRFDgCSnAbUxllcZJJ
+0tadBEpYN4YIBDWcvV2Mfq
+0tUBJgHumIS69lTHJ94bRM
+0tDLgk68YwAdZXPTySqIVW
+0oSWQjfe5dnRPbXQnZNJ4u
+0o0nJ6zijP5u2z0wuXmLIH
+0nb3rHI96wtfflIOBczsbc
+0n49fCjNGsbtNOE6cuWk79
+0mBkoM8r7KAQzZij5swTUL
+0jSBR3nqnUny3MTPaceqQD
+0jDO17IUPbXSTGNCuR0Jfd
+0hXKwRpwWlhq1wKvntu6j0
+0hSdx0sbSmYRVJzZTuspu0
+0hJfuyUwtEYMlGgvr3nzz9
+0dAY4aJFw74le3PMh3wOHC
+0bWtmYrWat7IWlpx3rmuwc
+0aOluBqXYd0rFSCsgDyAWX
+0ZPfDxZn5O0L84wvPSN2iG
+0XP4jb9IjvliEXDt8rK3XY
+0XOGMHeNwgu5tV0Z8BqDyD
+0WiLUVSO3YLxDaoae5B7fo
+0WfOuXw05LJq4ik1lVvTzi
+0Veo13Yqvdzd5zw83Lsdcr
+0Uhq3zZPBoHXFtGaZmhYqg
+0UY6ggZPalSXs3ue8tVcts
+0TyXT3d0BrpXKzl1n1ZQfa
+0RoGOiZUCQyqAZSPBSk75T
+0NODNDsiY0sK5P0TnmDMSE
+0NMrdzOVA0mgzeCpyKjrvI
+0NFchYXJVNxHb693dpIs0t
+0LEsGGRUrZZhLPFoxeioHr
+0IkKz2J93C94Ei4BvDop7P
+0GATmBanwPiHQBfl2mDq3o
+0FzqS9TaYAKwhjdIXfphtd
+0FNe7NgezZD4P0lkFcMrKQ
+07IzJw23z4zcqeZ4zVoc3d
+078RYWTtCzEcNCjvdP4yHL
+04mYhQGTujxxPjPzxRrgTL
+02617jpcGEjoUCRsFrkXfv
+01fVbxyW9y2oKdXvg56uE5
+00QA6kDTxsghd5vukZfxeE
